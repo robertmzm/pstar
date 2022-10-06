@@ -1,0 +1,212 @@
+[
+    {
+        "question": "Which statement is true with regard to aircraft converging at approximately the same altitude?",
+        "options": [
+            {
+                "option": "A jet airliner has the right of way over all other aircraft",
+                "correct": false
+            },
+            {
+                "option": "An aircraft towing objects has the right of way over all power-driven heavier-than-air aircraft.",
+                "correct": true
+            },
+            {
+                "option": "An aeroplane has the right of way over all other aircraft which are converging from the left.",
+                "correct": false
+            },
+            {
+                "option": "Aeroplanes towing gliders must give way to helicopters.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "When two aircraft are converging at approximately the same altitude",
+        "options": [
+            {
+                "option": "both aircraft shall alter heading to the left.",
+                "correct": false
+            },
+            {
+                "option": "the aircraft on the right shall avoid the other by descending.",
+                "correct": false
+            },
+            {
+                "option": "the aircraft that has the other on its right shall give way.",
+                "correct": true
+            },
+            {
+                "option": "the aircraft that has the other on its left shall give way.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "When two aircraft are converging at approximately the same altitude, which statement applies?",
+        "options": [
+            {
+                "option": "Gliders shall give way to helicopters.",
+                "correct": false
+            },
+            {
+                "option": "Aeroplanes shall give way to power-driven heavier-than-air aircraft.",
+                "correct": false
+            },
+            {
+                "option": "Gliders shall give way to aeroplanes.",
+                "correct": false
+            },
+            {
+                "option": "Power-driven heavier-than-air aircraft shall give way to gliders.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "When two aircraft are converging at approximately the same altitude, which statement applies?",
+        "options": [
+            {
+                "option": "Gliders shall give way to helicopters.",
+                "correct": false
+            },
+            {
+                "option": "Aeroplanes shall give way to helicopters.",
+                "correct": false
+            },
+            {
+                "option": "Helicopters shall give way to aeroplanes.",
+                "correct": false
+            },
+            {
+                "option": "Helicopters shall give way to gliders.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "When two aircraft are converging at approximately the same altitude, which statement applies?",
+        "options": [
+            {
+                "option": "Gliders shall give way to helicopters.",
+                "correct": false
+            },
+            {
+                "option": "Aeroplanes shall give way to helicopters.",
+                "correct": false
+            },
+            {
+                "option": "Helicopters shall give way to aeroplanes.",
+                "correct": false
+            },
+            {
+                "option": "Gliders shall give way to balloons.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "When converging at approximately the same altitude",
+        "options": [
+            {
+                "option": "balloons shall give way to hang gliders.",
+                "correct": false
+            },
+            {
+                "option": "aeroplanes towing gliders shall give way to balloons.",
+                "correct": true
+            },
+            {
+                "option": "balloons shall give way to gliders.",
+                "correct": false
+            },
+            {
+                "option": "balloons shall give way to airships.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "When two power-driven heavier-than-air aircraft are converging at approximately the same altitude,",
+        "options": [
+            {
+                "option": "the one on the left has the right of way.",
+                "correct": false
+            },
+            {
+                "option": "both shall alter heading to the left.",
+                "correct": false
+            },
+            {
+                "option": "the one on the right has the right of way.",
+                "correct": true
+            },
+            {
+                "option": "the one on the right shall give way by descending.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "When two aircraft are approaching head-on or approximately so and there is danger of collision, each pilot shall",
+        "options": [
+            {
+                "option": "decrease airspeed.",
+                "correct": false
+            },
+            {
+                "option": "increase airspeed.",
+                "correct": false
+            },
+            {
+                "option": "alter heading to the right.",
+                "correct": true
+            },
+            {
+                "option": "alter heading to the left.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "When overtaking an aircraft at your 12 o'clock position, at your altitude, you should",
+        "options": [
+            {
+                "option": "climb.",
+                "correct": false
+            },
+            {
+                "option": "descend.",
+                "correct": false
+            },
+            {
+                "option": "alter heading to the right.",
+                "correct": true
+            },
+            {
+                "option": "alter heading to the left.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Two aircraft are on approach to land, the aircraft at the higher altitude shall",
+        "options": [
+            {
+                "option": "have the right of way.",
+                "correct": false
+            },
+            {
+                "option": "overtake the lower aircraft on the left.",
+                "correct": false
+            },
+            {
+                "option": "give way.",
+                "correct": true
+            },
+            {
+                "option": "complete a 360\u00b0 turn to the right.",
+                "correct": false
+            }
+        ]
+    }
+]

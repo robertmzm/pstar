@@ -1,0 +1,50 @@
+Q: Which statement is true with regard to aircraft converging at approximately the same altitude?
+X: A jet airliner has the right of way over all other aircraft
+Y: An aircraft towing objects has the right of way over all power-driven heavier-than-air aircraft.
+X: An aeroplane has the right of way over all other aircraft which are converging from the left.
+X: Aeroplanes towing gliders must give way to helicopters.
+Q: When two aircraft are converging at approximately the same altitude
+X: both aircraft shall alter heading to the left.
+X: the aircraft on the right shall avoid the other by descending.
+Y: the aircraft that has the other on its right shall give way.
+X: the aircraft that has the other on its left shall give way.
+Q: When two aircraft are converging at approximately the same altitude, which statement applies?
+X: Gliders shall give way to helicopters.
+X: Aeroplanes shall give way to power-driven heavier-than-air aircraft.
+X: Gliders shall give way to aeroplanes.
+Y: Power-driven heavier-than-air aircraft shall give way to gliders.
+Q: When two aircraft are converging at approximately the same altitude, which statement applies?
+X: Gliders shall give way to helicopters.
+X: Aeroplanes shall give way to helicopters.
+X: Helicopters shall give way to aeroplanes.
+Y: Helicopters shall give way to gliders.
+Q: When two aircraft are converging at approximately the same altitude, which statement applies?
+X: Gliders shall give way to helicopters.
+X: Aeroplanes shall give way to helicopters.
+X: Helicopters shall give way to aeroplanes.
+Y: Gliders shall give way to balloons.
+Q: When converging at approximately the same altitude
+X: balloons shall give way to hang gliders.
+Y: aeroplanes towing gliders shall give way to balloons.
+X: balloons shall give way to gliders.
+X: balloons shall give way to airships.
+Q: When two power-driven heavier-than-air aircraft are converging at approximately the same altitude,
+X: the one on the left has the right of way.
+X: both shall alter heading to the left.
+Y: the one on the right has the right of way.
+X: the one on the right shall give way by descending.
+Q: When two aircraft are approaching head-on or approximately so and there is danger of collision, each pilot shall
+X: decrease airspeed.
+X: increase airspeed.
+Y: alter heading to the right.
+X: alter heading to the left.
+Q: When overtaking an aircraft at your 12 o'clock position, at your altitude, you should
+X: climb.
+X: descend.
+Y: alter heading to the right.
+X: alter heading to the left.
+Q: Two aircraft are on approach to land, the aircraft at the higher altitude shall
+X: have the right of way.
+X: overtake the lower aircraft on the left.
+Y: give way.
+X: complete a 360° turn to the right.
