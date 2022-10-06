@@ -1,10 +1,12 @@
 
-function Question(){
+function Question(props){
+	const options = props.question.options
+	const listOptions = options.map((option) =>
+    <li key={option.option}>{option.option}<button> X </button></li>
+  );
 	return (<div>
-        <h2> TITLE </h2>
-        <div>
-          <button> Delete </button>
-        </div>
+		<h1> {props.question.question} </h1>
+        {listOptions}
       </div> )
 }
 

@@ -10,7 +10,9 @@ class Option:
     def __repr__(self):
         return self.text
 
-with open('Colision Avoidance.txt') as f:
+filename = "Colision Avoidance"
+extension = ".txt"
+with open(filename+extension) as f:
     lines = f.readlines()
     for line in lines:
         line = line.replace('\n', '')
@@ -22,5 +24,5 @@ with open('Colision Avoidance.txt') as f:
             questions[-1]["options"].append({"option": tokens[1],"correct": correct})
     print(questions)
     json_object = json.dumps(questions, indent=4)
-    with open("sample.json", "w") as outfile:
+    with open(filename+".json", "w") as outfile:
         outfile.write(json_object)
