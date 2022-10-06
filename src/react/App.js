@@ -7,9 +7,12 @@ const { ipcRenderer } = window;
 var questions = require('../problemSets/Colision Avoidance.json')
 
 function App() {
+  const questionItems = questions.map((question) =>
+    <Question question={question}/>
+  );
   return (
     <div >
-      <Question question={questions[0]}/>
+      {questionItems}
     </div>
   );
 }
