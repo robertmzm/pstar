@@ -11,7 +11,7 @@ function App() {
     <Question question={question}/>
   );
   return (
-    <div >
+    <div key="questions">
       {questionItems}
     </div>
   );
