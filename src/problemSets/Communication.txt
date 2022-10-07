@@ -1,0 +1,145 @@
+Q: When making initial contact with a Canadian ATC unit, the pilot of aircraft C-GFLU should transmit the registration as
+X: Lima - Uniform over.
+X: Foxtrot - Lima - Uniform over.
+Y: Golf - Foxtrot - Lima - Uniform over.
+X: Charlie - Golf - Foxtrot - Lima - Uniform over.
+Q: When making initial contact with a Canadian ATC unit, the pilot of aircraft C-FBSQ should transmit the registration as
+X: FBSQ.
+X: Fox, Baker, Sugar, Queen.
+Y: Foxtrot, Bravo, Sierra, Quebec.
+X: Bravo, Sierra, Quebec.
+Q: After a Canadian privately registered aircraft has made initial contact with an ATS unit, which items may be omitted from subsequent transmissions? The aircraft type and
+X: any registration letters omitted by ATS in the last communication.
+Y: the first two letters of the registration, if initiated by ATS.
+X: the first three letters of the registration.
+X: the phonetic equivalents.
+Q: On initial radio contact with an ATS unit the pilot shall transmit the
+Y: type of aircraft and last four letters of the registration in phonetics.
+X: last three letters of the registration in phonetics.
+X: whole registration in phonetics.
+X: type of aircraft and the last three letters of the registration in phonetics.
+Q: ATIS is normally provided
+X: to replace the FSS.
+Y: to relieve frequency congestion.
+X: for the rapid updating of weather forecasts.
+X: only when VFR conditions exist at airports.
+Q: Where ATIS is available the information which should be included on first contact with ATC is the
+X: phrase "with the numbers".
+X: phrase "ATIS received".
+X: phrase "with the information".
+Y: ATIS phonetic identifier.
+Q: Whenever practicable, pilots operating VFR en route in uncontrolled airspace should continuously monitor
+Y: 126.7 MHz.
+X: 123.2 MHz.
+X: 122.8 MHz.
+X: 122.2 MHz.
+Q: En route aircraft should, whenever possible, maintain a listening watch for aircraft in distress on
+X: the receiver mode of the ELT.
+Y: 121.5 on the aircraft receiver.
+X: 121.5 during the first 5 minutes of each hour.
+X: the voice frequency of the navigation aid in use.
+Q: The specific frequency, distance and altitude within which MF procedures are to be followed are given in the
+Y: CFS.
+X: Designated Airspace Handbook.
+X: A.I.P. Canada.
+X: Flight Training Manual.
+Q: Pilots broadcasting on a MF where no ground station is in operation should direct their transmission to the
+X: aerodrome UNICOM.
+X: closest ATC unit.
+Y: aerodrome traffic.
+X: first aircraft heard on the frequency.
+Q: Pilots operating in VMC and intending to land at aerodromes where no UNICOM exists, should broadcast their intentions on the ATF of
+X: 121.5 MHz.
+X: 122.2 MHz.
+Y: 123.2 MHz.
+X: 126.7 MHz.
+Q: If a MF is in use, pilots departing VFR shall monitor that frequency until
+Y: beyond the specified distance or altitude.
+X: established en route.
+X: established at cruise altitude.
+X: clear of the aerodrome circuit pattern.
+Q: A pilot is cleared to taxi to the runway in use without a hold short clearance. To get there, the aircraft must cross two taxiways and one runway. This authorizes the pilot to taxi to
+X: the runway in use, but must hold short.
+X: the runway in use, but further clearance is required to cross each taxiway and runway en route.
+X: position on the runway without further clearance.
+Y: the runway in use, but further clearance is required to cross the other runway.
+Q: Ground control authorizes " GOLF ALPHA BRAVO CHARLIE TAXI RUNWAY 29 HOLD SHORT OF RUNWAY 04". The pilot should acknowledge this by replying "GOLF ALPHA BRAVO CHARLIE TO
+X: RUNWAY 04".
+X: RUNWAY 29".
+X: HOLD SHORT OF 29".
+Y: HOLD SHORT OF 04".
+Q: When a clearance for an "immediate take-off" is accepted, the pilot shall
+X: back-track on the runway to use the maximum available length for take-off.
+X: taxi to a full stop in position on the runway and take off without further clearance.
+Y: taxi onto the runway and take off in one continuous movement.
+X: complete the pre-take-off check before taxiing onto the runway and taking off.
+Q: A pilot flying a heading of 270°, receives the following message from ATC, "Traffic 2 o'clock, 5 miles, eastbound". This information indicates the traffic is
+X: 60° to the left, altitude unknown.
+Y: 60° to the right, altitude unknown.
+X: 90° to the right, at same altitude.
+X: 90° to the left, at same altitude.
+Q: A pilot receives the following ATC clearance "CLEARED TO LAND, TURN RIGHT AT THE FIRST INTERSECTION". The pilot should
+X: land and attempt to turn off even though the speed is considered too high to safely accomplish the turn.
+X: complete a touch-and-go if it is not possible to safely accomplish the turn.
+Y: land and turn off at the nearest intersection possible commensurate with safety.
+X: land and do a 180° turn and taxi back to clear the runway at the required intersection.
+Q: The radiotelephone distress signal to indicate grave and/or imminent danger requiring immediate assistance is
+Y: MAYDAY, MAYDAY, MAYDAY.
+X: PAN PAN, PAN PAN, PAN PAN.
+X: SECURITY, SECURITY, SECURITY.
+X: EMERGENCY, EMERGENCY, EMERGENCY.
+Q: The radiotelephone urgency signal to indicate a condition concerning the safety of an aircraft, vehicle or of some person on board which does not require immediate assistance is
+X: MAYDAY, MAYDAY, MAYDAY.
+Y: PAN PAN, PAN PAN, PAN PAN.
+X: EMERGENCY, EMERGENCY, EMERGENCY.
+X: URGENCY,URGENCY, URGENCY.
+Q: What should be included along with the call sign of the aircraft and time, to indicate cancellation of a distress message?
+X: MAYDAY, MAYDAY, MAYDAY, ALL STATIONS, DISTRESS TRAFFIC ENDED, OUT.
+Y: MAYDAY, ALL STATIONS, ALL STATIONS, ALL STATIONS, SILENCE FINISHED, OUT.
+X: MAYDAY CANCELLED, MAYDAY CANCELLED, MAYDAY CANCELLED.
+X: ALL STATIONS, ALL STATIONS, ALL STATIONS, EMERGENCY OVER.
+Q: A departing flight will normally remain on tower frequency until
+X: the flight is 2,000 feet AGL.
+X: 25 NM from the airport.
+X: 15 NM from the Control Zone.
+Y: clear of the Control Zone.
+Q: You advise ATC that you are on the downwind leg. If there is other traffic in the circuit, ATC will then
+Y: inform you of your number in the approach sequence or other appropriate instructions.
+X: inform you of the runway in use, wind and altimeter.
+X: advise you of all other circuit traffic.
+X: clear you to land.
+Q: A radio equipped aircraft has been cleared to land at a controlled airport. The pilot should acknowledge the clearance by
+X: replying "Roger".
+X: replying "Wilco".
+X: clicking the microphone button.
+Y: transmitting the aircraft call sign.
+Q: An initial call to Timmins FSS should be "Timmins
+Y: radio this is..."
+X: Flight Service Station this is..."
+X: UNICOM this is..."
+X: this is..."
+Q: A responsibility of a flight service specialist is to provide
+X: air traffic control.
+Y: flight planning service.
+X: air traffic service in uncontrolled airspace only.
+X: terminal radar service.
+Q: NOTAM are
+Y: available at all FSS.
+X: mailed to all pilots.
+X: issued for airport facility closures only.
+X: valid for 24 hours.
+Q: A new or replacing NOTAM without the term "APRX" is valid
+X: for 48 hours only.
+X: for the day it was issued.
+Y: until the time quoted in the NOTAM.
+X: until a cancelling NOTAM is issued.
+Q: The term "APRX" when contained in a new or replacing NOTAM means the NOTAM is valid
+X: for approximately 24 hours.
+X: for approximately 48 hours.
+X: until the time quoted in the NOTAM.
+Y: until a cancelling or replacing NOTAM is issued.
+Q: Your radio transmissions are reported READABILITY THREE. This means that your transmissions are
+X: readable now and then.
+Y: readable with difficulty.
+X: readable.
+X: perfectly readable.

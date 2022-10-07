@@ -1,0 +1,56 @@
+Q: An airport is
+X: an aerodrome with paved runways.
+X: an aerodrome with a control tower.
+X: a registered aerodrome.
+Y: a certified aerodrome.
+Q: A dry Transport Canada standard wind direction indicator when horizontal indicates a wind speed of at least
+X: 25 KT.
+Y: 15 KT.
+X: 10 KT.
+X: 6 KT.
+Q: No person shall operate any vehicle on any part of an uncontrolled airport used for the movement of aircraft, except in accordance with permission from
+Y: the operator of the airport.
+X: the airport security officer.
+X: a federal peace officer.
+X: a qualified flying instructor.
+Q: Runways and taxiways or portions thereof that are closed to aircraft are marked by
+X: red flags.
+X: horizontal red squares with yellow diagonals.
+Y: a white or yellow X.
+X: white dumb-bells.
+Q: The west end of a runway oriented east and west is numbered
+Y: 09.
+X: 90.
+X: 27.
+X: 270.
+Q: Refer to Appendix: HOLDING POSITION MARKINGS (Diagram #1)
+Holding position markings
+At controlled airports, the taxiway holding position markings in diagrams A and B indicate that aircraft shall stop
+X: on the solid line side at all times.
+Y: on the solid line side unless otherwise cleared by ATC.
+X: before crossing the lines from either side at all times.
+X: before crossing the lines from either side unless otherwise cleared by ATC.
+Q: Where taxiway holding positions have notbeen established, aircraft waiting to enter an active runway should normally hold
+X: clear of the manoeuvring area.
+X: 50 feet from the edge of the runway.
+X: 150 feet from the edge of the runway.
+Y: 200 feet from the edge of the runway.
+Q: The manoeuvring area of an airport is that area
+X: normally referred to as the ramp or apron.
+X: which includes the apron, taxiways and runways.
+X: used when taxiing to and from the parking area.
+Y: used for taxiing, taking off and landing.
+Q: Except for the purpose of taking off or landing, an aircraft shall not be flown over an aerodrome at a height of less than
+Y: 2,000 feet AGL.
+X: 1,500 feet AGL.
+X: 1,000 feet AGL.
+X: 500 feet AGL.
+Q: Refer to Appendix: HELIPORT MARKINGS (Diagram #1)
+heliport markings
+Select the helicopter ground markings which identify respectively
+- a hospital heliport,
+- a heliport.
+X: D, C.
+X: D, A.
+X: B, C.
+Y: A, B.

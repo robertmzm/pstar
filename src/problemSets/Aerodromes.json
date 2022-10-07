@@ -1,0 +1,212 @@
+[
+    {
+        "question": "An airport is",
+        "options": [
+            {
+                "option": "an aerodrome with paved runways.",
+                "correct": false
+            },
+            {
+                "option": "an aerodrome with a control tower.",
+                "correct": false
+            },
+            {
+                "option": "a registered aerodrome.",
+                "correct": false
+            },
+            {
+                "option": "a certified aerodrome.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A dry Transport Canada standard wind direction indicator when horizontal indicates a wind speed of at least",
+        "options": [
+            {
+                "option": "25 KT.",
+                "correct": false
+            },
+            {
+                "option": "15 KT.",
+                "correct": true
+            },
+            {
+                "option": "10 KT.",
+                "correct": false
+            },
+            {
+                "option": "6 KT.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "No person shall operate any vehicle on any part of an uncontrolled airport used for the movement of aircraft, except in accordance with permission from",
+        "options": [
+            {
+                "option": "the operator of the airport.",
+                "correct": true
+            },
+            {
+                "option": "the airport security officer.",
+                "correct": false
+            },
+            {
+                "option": "a federal peace officer.",
+                "correct": false
+            },
+            {
+                "option": "a qualified flying instructor.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Runways and taxiways or portions thereof that are closed to aircraft are marked by",
+        "options": [
+            {
+                "option": "red flags.",
+                "correct": false
+            },
+            {
+                "option": "horizontal red squares with yellow diagonals.",
+                "correct": false
+            },
+            {
+                "option": "a white or yellow X.",
+                "correct": true
+            },
+            {
+                "option": "white dumb-bells.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The west end of a runway oriented east and west is numbered",
+        "options": [
+            {
+                "option": "09.",
+                "correct": true
+            },
+            {
+                "option": "90.",
+                "correct": false
+            },
+            {
+                "option": "27.",
+                "correct": false
+            },
+            {
+                "option": "270.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Refer to Appendix\nHolding position markings\nAt controlled airports, the taxiway holding position markings in diagrams A and B indicate that aircraft shall stop",
+        "options": [
+            {
+                "option": "on the solid line side at all times.",
+                "correct": false
+            },
+            {
+                "option": "on the solid line side unless otherwise cleared by ATC.",
+                "correct": true
+            },
+            {
+                "option": "before crossing the lines from either side at all times.",
+                "correct": false
+            },
+            {
+                "option": "before crossing the lines from either side unless otherwise cleared by ATC.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Where taxiway holding positions have notbeen established, aircraft waiting to enter an active runway should normally hold",
+        "options": [
+            {
+                "option": "clear of the manoeuvring area.",
+                "correct": false
+            },
+            {
+                "option": "50 feet from the edge of the runway.",
+                "correct": false
+            },
+            {
+                "option": "150 feet from the edge of the runway.",
+                "correct": false
+            },
+            {
+                "option": "200 feet from the edge of the runway.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "The manoeuvring area of an airport is that area",
+        "options": [
+            {
+                "option": "normally referred to as the ramp or apron.",
+                "correct": false
+            },
+            {
+                "option": "which includes the apron, taxiways and runways.",
+                "correct": false
+            },
+            {
+                "option": "used when taxiing to and from the parking area.",
+                "correct": false
+            },
+            {
+                "option": "used for taxiing, taking off and landing.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Except for the purpose of taking off or landing, an aircraft shall not be flown over an aerodrome at a height of less than",
+        "options": [
+            {
+                "option": "2,000 feet AGL.",
+                "correct": true
+            },
+            {
+                "option": "1,500 feet AGL.",
+                "correct": false
+            },
+            {
+                "option": "1,000 feet AGL.",
+                "correct": false
+            },
+            {
+                "option": "500 feet AGL.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Refer to Appendix\nheliport markings\nSelect the helicopter ground markings which identify respectively\n- a hospital heliport,\n- a heliport.",
+        "options": [
+            {
+                "option": "D, C.",
+                "correct": false
+            },
+            {
+                "option": "D, A.",
+                "correct": false
+            },
+            {
+                "option": "B, C.",
+                "correct": false
+            },
+            {
+                "option": "A, B.",
+                "correct": true
+            }
+        ]
+    }
+]

@@ -23,10 +23,13 @@ function Option(props){
 
 	const buttonStyles = {
 		button:{
+				fontWeight: 'bold',
+				borderColor:"Black",
+				borderRadius: 5,
+				border_radius: "20%",
 		        backgroundColor: 'white',
 		        color: isAnswered ? isCorrect?'green':'red' : '',
 		        line_height: '20px',
-				display: 'inline'
 	        }
 	}
 	var handleClick = () => {
@@ -34,15 +37,16 @@ function Option(props){
 		setIsCorrect(option.correct)
 	};
 	return <div key={option.option} >
-		<h2 style={styles.baseText}> {option.option} </h2>
 		<button style={buttonStyles.button}
-        		onClick={handleClick}> X </button>
+	        		onClick={handleClick}> X </button>
+		<h2 style={styles.baseText}> {option.option} </h2>
+		
     </div>
 }
 
 function Question(props){
 	
-	
+
 	const options = props.question.options
 	const listOptions = options.map((option) => 
 		<Option option={option}/>

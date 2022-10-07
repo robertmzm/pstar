@@ -1,0 +1,611 @@
+[
+    {
+        "question": "When making initial contact with a Canadian ATC unit, the pilot of aircraft C-GFLU should transmit the registration as",
+        "options": [
+            {
+                "option": "Lima - Uniform over.",
+                "correct": false
+            },
+            {
+                "option": "Foxtrot - Lima - Uniform over.",
+                "correct": false
+            },
+            {
+                "option": "Golf - Foxtrot - Lima - Uniform over.",
+                "correct": true
+            },
+            {
+                "option": "Charlie - Golf - Foxtrot - Lima - Uniform over.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "When making initial contact with a Canadian ATC unit, the pilot of aircraft C-FBSQ should transmit the registration as",
+        "options": [
+            {
+                "option": "FBSQ.",
+                "correct": false
+            },
+            {
+                "option": "Fox, Baker, Sugar, Queen.",
+                "correct": false
+            },
+            {
+                "option": "Foxtrot, Bravo, Sierra, Quebec.",
+                "correct": true
+            },
+            {
+                "option": "Bravo, Sierra, Quebec.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "After a Canadian privately registered aircraft has made initial contact with an ATS unit, which items may be omitted from subsequent transmissions? The aircraft type and",
+        "options": [
+            {
+                "option": "any registration letters omitted by ATS in the last communication.",
+                "correct": false
+            },
+            {
+                "option": "the first two letters of the registration, if initiated by ATS.",
+                "correct": true
+            },
+            {
+                "option": "the first three letters of the registration.",
+                "correct": false
+            },
+            {
+                "option": "the phonetic equivalents.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "On initial radio contact with an ATS unit the pilot shall transmit the",
+        "options": [
+            {
+                "option": "type of aircraft and last four letters of the registration in phonetics.",
+                "correct": true
+            },
+            {
+                "option": "last three letters of the registration in phonetics.",
+                "correct": false
+            },
+            {
+                "option": "whole registration in phonetics.",
+                "correct": false
+            },
+            {
+                "option": "type of aircraft and the last three letters of the registration in phonetics.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "ATIS is normally provided",
+        "options": [
+            {
+                "option": "to replace the FSS.",
+                "correct": false
+            },
+            {
+                "option": "to relieve frequency congestion.",
+                "correct": true
+            },
+            {
+                "option": "for the rapid updating of weather forecasts.",
+                "correct": false
+            },
+            {
+                "option": "only when VFR conditions exist at airports.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Where ATIS is available the information which should be included on first contact with ATC is the",
+        "options": [
+            {
+                "option": "phrase \"with the numbers\".",
+                "correct": false
+            },
+            {
+                "option": "phrase \"ATIS received\".",
+                "correct": false
+            },
+            {
+                "option": "phrase \"with the information\".",
+                "correct": false
+            },
+            {
+                "option": "ATIS phonetic identifier.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Whenever practicable, pilots operating VFR en route in uncontrolled airspace should continuously monitor",
+        "options": [
+            {
+                "option": "126.7 MHz.",
+                "correct": true
+            },
+            {
+                "option": "123.2 MHz.",
+                "correct": false
+            },
+            {
+                "option": "122.8 MHz.",
+                "correct": false
+            },
+            {
+                "option": "122.2 MHz.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "En route aircraft should, whenever possible, maintain a listening watch for aircraft in distress on",
+        "options": [
+            {
+                "option": "the receiver mode of the ELT.",
+                "correct": false
+            },
+            {
+                "option": "121.5 on the aircraft receiver.",
+                "correct": true
+            },
+            {
+                "option": "121.5 during the first 5 minutes of each hour.",
+                "correct": false
+            },
+            {
+                "option": "the voice frequency of the navigation aid in use.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The specific frequency, distance and altitude within which MF procedures are to be followed are given in the",
+        "options": [
+            {
+                "option": "CFS.",
+                "correct": true
+            },
+            {
+                "option": "Designated Airspace Handbook.",
+                "correct": false
+            },
+            {
+                "option": "A.I.P. Canada.",
+                "correct": false
+            },
+            {
+                "option": "Flight Training Manual.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Pilots broadcasting on a MF where no ground station is in operation should direct their transmission to the",
+        "options": [
+            {
+                "option": "aerodrome UNICOM.",
+                "correct": false
+            },
+            {
+                "option": "closest ATC unit.",
+                "correct": false
+            },
+            {
+                "option": "aerodrome traffic.",
+                "correct": true
+            },
+            {
+                "option": "first aircraft heard on the frequency.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Pilots operating in VMC and intending to land at aerodromes where no UNICOM exists, should broadcast their intentions on the ATF of",
+        "options": [
+            {
+                "option": "121.5 MHz.",
+                "correct": false
+            },
+            {
+                "option": "122.2 MHz.",
+                "correct": false
+            },
+            {
+                "option": "123.2 MHz.",
+                "correct": true
+            },
+            {
+                "option": "126.7 MHz.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "If a MF is in use, pilots departing VFR shall monitor that frequency until",
+        "options": [
+            {
+                "option": "beyond the specified distance or altitude.",
+                "correct": true
+            },
+            {
+                "option": "established en route.",
+                "correct": false
+            },
+            {
+                "option": "established at cruise altitude.",
+                "correct": false
+            },
+            {
+                "option": "clear of the aerodrome circuit pattern.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A pilot is cleared to taxi to the runway in use without a hold short clearance. To get there, the aircraft must cross two taxiways and one runway. This authorizes the pilot to taxi to",
+        "options": [
+            {
+                "option": "the runway in use, but must hold short.",
+                "correct": false
+            },
+            {
+                "option": "the runway in use, but further clearance is required to cross each taxiway and runway en route.",
+                "correct": false
+            },
+            {
+                "option": "position on the runway without further clearance.",
+                "correct": false
+            },
+            {
+                "option": "the runway in use, but further clearance is required to cross the other runway.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Ground control authorizes \" GOLF ALPHA BRAVO CHARLIE TAXI RUNWAY 29 HOLD SHORT OF RUNWAY 04\". The pilot should acknowledge this by replying \"GOLF ALPHA BRAVO CHARLIE TO",
+        "options": [
+            {
+                "option": "RUNWAY 04\".",
+                "correct": false
+            },
+            {
+                "option": "RUNWAY 29\".",
+                "correct": false
+            },
+            {
+                "option": "HOLD SHORT OF 29\".",
+                "correct": false
+            },
+            {
+                "option": "HOLD SHORT OF 04\".",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "When a clearance for an \"immediate take-off\" is accepted, the pilot shall",
+        "options": [
+            {
+                "option": "back-track on the runway to use the maximum available length for take-off.",
+                "correct": false
+            },
+            {
+                "option": "taxi to a full stop in position on the runway and take off without further clearance.",
+                "correct": false
+            },
+            {
+                "option": "taxi onto the runway and take off in one continuous movement.",
+                "correct": true
+            },
+            {
+                "option": "complete the pre-take-off check before taxiing onto the runway and taking off.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A pilot flying a heading of 270\u00b0, receives the following message from ATC, \"Traffic 2 o'clock, 5 miles, eastbound\". This information indicates the traffic is",
+        "options": [
+            {
+                "option": "60\u00b0 to the left, altitude unknown.",
+                "correct": false
+            },
+            {
+                "option": "60\u00b0 to the right, altitude unknown.",
+                "correct": true
+            },
+            {
+                "option": "90\u00b0 to the right, at same altitude.",
+                "correct": false
+            },
+            {
+                "option": "90\u00b0 to the left, at same altitude.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A pilot receives the following ATC clearance \"CLEARED TO LAND, TURN RIGHT AT THE FIRST INTERSECTION\". The pilot should",
+        "options": [
+            {
+                "option": "land and attempt to turn off even though the speed is considered too high to safely accomplish the turn.",
+                "correct": false
+            },
+            {
+                "option": "complete a touch-and-go if it is not possible to safely accomplish the turn.",
+                "correct": false
+            },
+            {
+                "option": "land and turn off at the nearest intersection possible commensurate with safety.",
+                "correct": true
+            },
+            {
+                "option": "land and do a 180\u00b0 turn and taxi back to clear the runway at the required intersection.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The radiotelephone distress signal to indicate grave and/or imminent danger requiring immediate assistance is",
+        "options": [
+            {
+                "option": "MAYDAY, MAYDAY, MAYDAY.",
+                "correct": true
+            },
+            {
+                "option": "PAN PAN, PAN PAN, PAN PAN.",
+                "correct": false
+            },
+            {
+                "option": "SECURITY, SECURITY, SECURITY.",
+                "correct": false
+            },
+            {
+                "option": "EMERGENCY, EMERGENCY, EMERGENCY.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The radiotelephone urgency signal to indicate a condition concerning the safety of an aircraft, vehicle or of some person on board which does not require immediate assistance is",
+        "options": [
+            {
+                "option": "MAYDAY, MAYDAY, MAYDAY.",
+                "correct": false
+            },
+            {
+                "option": "PAN PAN, PAN PAN, PAN PAN.",
+                "correct": true
+            },
+            {
+                "option": "EMERGENCY, EMERGENCY, EMERGENCY.",
+                "correct": false
+            },
+            {
+                "option": "URGENCY,URGENCY, URGENCY.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What should be included along with the call sign of the aircraft and time, to indicate cancellation of a distress message?",
+        "options": [
+            {
+                "option": "MAYDAY, MAYDAY, MAYDAY, ALL STATIONS, DISTRESS TRAFFIC ENDED, OUT.",
+                "correct": false
+            },
+            {
+                "option": "MAYDAY, ALL STATIONS, ALL STATIONS, ALL STATIONS, SILENCE FINISHED, OUT.",
+                "correct": true
+            },
+            {
+                "option": "MAYDAY CANCELLED, MAYDAY CANCELLED, MAYDAY CANCELLED.",
+                "correct": false
+            },
+            {
+                "option": "ALL STATIONS, ALL STATIONS, ALL STATIONS, EMERGENCY OVER.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A departing flight will normally remain on tower frequency until",
+        "options": [
+            {
+                "option": "the flight is 2,000 feet AGL.",
+                "correct": false
+            },
+            {
+                "option": "25 NM from the airport.",
+                "correct": false
+            },
+            {
+                "option": "15 NM from the Control Zone.",
+                "correct": false
+            },
+            {
+                "option": "clear of the Control Zone.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "You advise ATC that you are on the downwind leg. If there is other traffic in the circuit, ATC will then",
+        "options": [
+            {
+                "option": "inform you of your number in the approach sequence or other appropriate instructions.",
+                "correct": true
+            },
+            {
+                "option": "inform you of the runway in use, wind and altimeter.",
+                "correct": false
+            },
+            {
+                "option": "advise you of all other circuit traffic.",
+                "correct": false
+            },
+            {
+                "option": "clear you to land.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A radio equipped aircraft has been cleared to land at a controlled airport. The pilot should acknowledge the clearance by",
+        "options": [
+            {
+                "option": "replying \"Roger\".",
+                "correct": false
+            },
+            {
+                "option": "replying \"Wilco\".",
+                "correct": false
+            },
+            {
+                "option": "clicking the microphone button.",
+                "correct": false
+            },
+            {
+                "option": "transmitting the aircraft call sign.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "An initial call to Timmins FSS should be \"Timmins",
+        "options": [
+            {
+                "option": "radio this is...\"",
+                "correct": true
+            },
+            {
+                "option": "Flight Service Station this is...\"",
+                "correct": false
+            },
+            {
+                "option": "UNICOM this is...\"",
+                "correct": false
+            },
+            {
+                "option": "this is...\"",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A responsibility of a flight service specialist is to provide",
+        "options": [
+            {
+                "option": "air traffic control.",
+                "correct": false
+            },
+            {
+                "option": "flight planning service.",
+                "correct": true
+            },
+            {
+                "option": "air traffic service in uncontrolled airspace only.",
+                "correct": false
+            },
+            {
+                "option": "terminal radar service.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "NOTAM are",
+        "options": [
+            {
+                "option": "available at all FSS.",
+                "correct": true
+            },
+            {
+                "option": "mailed to all pilots.",
+                "correct": false
+            },
+            {
+                "option": "issued for airport facility closures only.",
+                "correct": false
+            },
+            {
+                "option": "valid for 24 hours.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A new or replacing NOTAM without the term \"APRX\" is valid",
+        "options": [
+            {
+                "option": "for 48 hours only.",
+                "correct": false
+            },
+            {
+                "option": "for the day it was issued.",
+                "correct": false
+            },
+            {
+                "option": "until the time quoted in the NOTAM.",
+                "correct": true
+            },
+            {
+                "option": "until a cancelling NOTAM is issued.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The term \"APRX\" when contained in a new or replacing NOTAM means the NOTAM is valid",
+        "options": [
+            {
+                "option": "for approximately 24 hours.",
+                "correct": false
+            },
+            {
+                "option": "for approximately 48 hours.",
+                "correct": false
+            },
+            {
+                "option": "until the time quoted in the NOTAM.",
+                "correct": false
+            },
+            {
+                "option": "until a cancelling or replacing NOTAM is issued.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Your radio transmissions are reported READABILITY THREE. This means that your transmissions are",
+        "options": [
+            {
+                "option": "readable now and then.",
+                "correct": false
+            },
+            {
+                "option": "readable with difficulty.",
+                "correct": true
+            },
+            {
+                "option": "readable.",
+                "correct": false
+            },
+            {
+                "option": "perfectly readable.",
+                "correct": false
+            }
+        ]
+    }
+]
