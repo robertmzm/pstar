@@ -1,0 +1,70 @@
+Q: Except for ultra-light aeroplanes and balloons, which documents shall be carried on board when flying a radio equipped Canadian privately registered aircraft? Items A, B and
+A. Certificate of Airworthiness or Flight Permit.
+B. Certificate of Registration.
+C. Technical log.
+D. Crew licences.
+E. Radiotelephone Operator's Restricted Certificate.
+F. Type certificate.
+G. Aircraft journey log book, unless otherwise authorized by the Minister.
+H. Proof of liability insurance.
+X: C, D, E, G.
+X: C, D, F, H.
+X: D, E, F, G.
+Y: D, E, G, H.
+Q: Taking into account seasonal climatic variations and geographical area, private aeroplanes and helicopters flying VFR 25 NM or more from an aerodrome or operating base may require
+Y: specified emergency supplies be carried.
+X: a functioning radio capable of two-way radio communication.
+X: the aircraft be multi-engined when passengers are carried.
+X: all of the above
+Q: A serviceable landing light is required equipment on aircraft
+Y: carrying passengers at night.
+X: carrying passengers at night except private aircraft under Q: kg.
+X: using an unlighted aerodrome.
+X: taking off or landing at night.
+Q: Unless oxygen and oxygen masks as specified in CARs are readily available, no person shall fly unpressurized aircraft above
+X: 9,00 feet ASL.
+X: 10,000 feet ASL.
+X: 12,000 feet ASL.
+Y: 13,000 feet ASL.
+Q: No person shall fly an aircraft for more than ..... at an altitude between 10,000 and 13,000 feet ASL unless there is readily available to each flight crew member, an oxygen mask and a supply of oxygen.
+X: 15 minutes.
+Y: 30 minutes.
+X: 1 hour.
+X: 2 hours.
+Q: What safety equipment must be available to each person on board a single-engine aircraft which is taking off from or landing on water?
+X: An approved life raft.
+Y: An approved life preserver.
+X: A signal flare.
+X: A signal mirror.
+Q: The International VHF Emergency Frequency is
+Y: 121.5 MHz.
+X: 121.9 MHz.
+X: 122.2 MHz.
+X: 126.7 MHz.
+Q: No pilot shall take off from or land at an aerodrome at night unless the
+X: aircraft is equipped with a functioning two-way radio.
+X: aircraft is equipped with a functioning landing light or landing lights.
+Y: aerodrome is lighted as prescribed by the Minister.
+X: pilot has completed 3 night landings in the previous 90 days.
+Q: The CARs define an infant passenger as a person
+X: weighing less than 30 LB.
+X: under 3 years of age.
+X: weighing less than 50 LB and under 5 years of age.
+Y: under 2 years of age.
+Q: When the PIC directs that safety belts be fastened, an infant passenger for which no child restraint system is provided shall be
+X: fastened securely in a seat by means of a safety belt.
+Y: held securely in the arms of an adult person whose safety belt shall be fastened.
+X: held securely in the arms of an adult person and a safety belt shall be fastened about both.
+X: secured by any one of the above methods.
+Q: Which flight instrument systems and equipment are required on power driven aircraft for day VFR flight in controlled airspace? A magnetic direction indicating system or magnetic compass and
+A. an airspeed indicator.
+B. an attitude indicator.
+C. a sensitive altimeter.
+D. a vertical speed indicator.
+E. a turn and bank indicator.
+F. a time piece.
+G. a heading indicator.
+Y: A, C, F.
+X: A, B, G.
+X: A, C, D, E, F.
+X: B, D, E, G.

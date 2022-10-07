@@ -5,6 +5,7 @@ const styles = {
 		margin: 20
 	},
 	baseText: {
+		whiteSpace: 'break-spaces',
 		fontSize: 15,
 		fontFamily: 'Cochin',
 		line_height: '20px',
@@ -45,7 +46,8 @@ function Option(props){
 }
 
 function Question(props){
-	
+	const re=/\n/
+	console.log()
 
 	const options = props.question.options
 	const listOptions = options.map((option) => 
@@ -53,11 +55,26 @@ function Question(props){
     	
 	);
 
+	function replaceWithBr() {
+	    return props.question.question.replace(/\n/g, "<br />");
+	}
+
 	//render one question
 	return (<div key={props.question.question} style={styles.question}>
-		<h1 style={styles.optionText}> {props.question.question} </h1>
+		<p dangerouslySetInnerHTML={{ __html: replaceWithBr() }} style={styles.optionText}/>
         {listOptions}
 	</div>)
 }
 
+
+
+
+
+
+
+
 export default Question;
+
+
+
+

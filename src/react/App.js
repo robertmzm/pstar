@@ -5,7 +5,7 @@ import Question from './components/Question'
 import { channels } from '../shared/constants';
 const { ipcRenderer } = window;
 
-var chapters = ["Colision Avoidance", "Visual Signals", "Communication","Aerodromes"]
+var chapters = ["Colision Avoidance", "Visual Signals", "Communication","Aerodromes","Equipment"]
 
 function App() {
   const styles = {
@@ -24,7 +24,7 @@ function App() {
     setChapterIndex((chapterIndex-1+chapters.length)%chapters.length)
   };
 
-  var questions = require(`../problemSets/${chapters[chapterIndex]}.json`)
+  var questions = require(`../questionSets/${chapters[chapterIndex]}.json`)
   const questionItems = questions.map((question) =>
     <Question question={question} chapterIndex={chapterIndex}/>
   );
