@@ -16,10 +16,11 @@ const styles = {
 	},
 }
 
-function Option(option){
-	
+function Option(props){
+	const option = props.option
 	const [isAnswered, setIsAnswered] = useState(false);
 	const [isCorrect, setIsCorrect] = useState(false);
+
 	const buttonStyles = {
 		button:{
 		        backgroundColor: 'white',
@@ -41,10 +42,10 @@ function Option(option){
 
 function Question(props){
 	
-
+	
 	const options = props.question.options
 	const listOptions = options.map((option) => 
-		Option(option)
+		<Option option={option}/>
     	
 	);
 
