@@ -1,0 +1,170 @@
+[
+    {
+        "question": "A series of green flashes directed at an aircraft means respectively\nin flight\non the ground",
+        "options": [
+            {
+                "option": "cleared to land;\ncleared to taxi.",
+                "correct": false
+            },
+            {
+                "option": "return for landing;\ncleared for take-off.",
+                "correct": false
+            },
+            {
+                "option": "return for landing;\ncleared to taxi.",
+                "correct": true
+            },
+            {
+                "option": "cleared to land;\ncleared for take-off.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A steady red light directed at an aircraft means\nin flight\non the ground",
+        "options": [
+            {
+                "option": "give way to other aircraft and continue circling;\nstop.",
+                "correct": true
+            },
+            {
+                "option": "give way to other aircraft and continue circling;\ntaxi clear of landing area in use.",
+                "correct": false
+            },
+            {
+                "option": "airport unsafe do not land;\ntaxi clear of landing area in use.",
+                "correct": false
+            },
+            {
+                "option": "airport unsafe do not land;\nstop.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A series of red flashes directed at an aircraft means respectively\nin flight\non the ground",
+        "options": [
+            {
+                "option": "airport unsafe, do not land;\ntaxi clear of landing area in use.",
+                "correct": true
+            },
+            {
+                "option": "give way to other aircraft and continue circling;\nstop.",
+                "correct": false
+            },
+            {
+                "option": "do not land for time being;\nreturn to starting point on airport.",
+                "correct": false
+            },
+            {
+                "option": "you are in prohibited area, alter course;\nstop.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A steady green light directed at an aircraft means respectively\nin flight\non the ground",
+        "options": [
+            {
+                "option": "cleared to land;\ncleared to taxi.",
+                "correct": false
+            },
+            {
+                "option": "return for landing;\ncleared to taxi.",
+                "correct": false
+            },
+            {
+                "option": "return for landing;\ncleared for take-off.",
+                "correct": false
+            },
+            {
+                "option": "cleared to land;\ncleared for take-off.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A flashing white light directed at an aircraft on the manoeuvring area of an airport means",
+        "options": [
+            {
+                "option": "stop.",
+                "correct": false
+            },
+            {
+                "option": "return to starting point on the airport.",
+                "correct": true
+            },
+            {
+                "option": "cleared to taxi.",
+                "correct": false
+            },
+            {
+                "option": "taxi clear of landing area in use.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Blinking runway lights advises vehicles and pedestrians to",
+        "options": [
+            {
+                "option": "return to the apron.",
+                "correct": false
+            },
+            {
+                "option": "vacate the runways immediately.",
+                "correct": true
+            },
+            {
+                "option": "be aware that an emergency is in progress; continue with caution.",
+                "correct": false
+            },
+            {
+                "option": "be aware that an emergency is in progress; hold your position.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Chrome yellow and black strips painted on pylons or on the roof of a building identifies",
+        "options": [
+            {
+                "option": "an area where explosives are in use.",
+                "correct": false
+            },
+            {
+                "option": "a fur farm.",
+                "correct": true
+            },
+            {
+                "option": "an artillery range.",
+                "correct": false
+            },
+            {
+                "option": "an open pit mine.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Pilots should not overfly reindeer or caribou at an altitude of less than",
+        "options": [
+            {
+                "option": "2,500 feet AGL.",
+                "correct": false
+            },
+            {
+                "option": "2,000 feet AGL.",
+                "correct": true
+            },
+            {
+                "option": "1,500 feet AGL.",
+                "correct": false
+            },
+            {
+                "option": "1,000 feet AGL.",
+                "correct": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+Q: A series of green flashes directed at an aircraft means respectively
+in flight
+on the ground
+X: cleared to land;
+cleared to taxi.
+X: return for landing;
+cleared for take-off.
+Y: return for landing;
+cleared to taxi.
+X: cleared to land;
+cleared for take-off.
+Q: A steady red light directed at an aircraft means
+in flight
+on the ground
+Y: give way to other aircraft and continue circling;
+stop.
+X: give way to other aircraft and continue circling;
+taxi clear of landing area in use.
+X: airport unsafe do not land;
+taxi clear of landing area in use.
+X: airport unsafe do not land;
+stop.
+Q: A series of red flashes directed at an aircraft means respectively
+in flight
+on the ground
+Y: airport unsafe, do not land;
+taxi clear of landing area in use.
+X: give way to other aircraft and continue circling;
+stop.
+X: do not land for time being;
+return to starting point on airport.
+X: you are in prohibited area, alter course;
+stop.
+Q: A steady green light directed at an aircraft means respectively
+in flight
+on the ground
+X: cleared to land;
+cleared to taxi.
+X: return for landing;
+cleared to taxi.
+X: return for landing;
+cleared for take-off.
+Y: cleared to land;
+cleared for take-off.
+Q: A flashing white light directed at an aircraft on the manoeuvring area of an airport means
+X: stop.
+Y: return to starting point on the airport.
+X: cleared to taxi.
+X: taxi clear of landing area in use.
+Q: Blinking runway lights advises vehicles and pedestrians to
+X: return to the apron.
+Y: vacate the runways immediately.
+X: be aware that an emergency is in progress; continue with caution.
+X: be aware that an emergency is in progress; hold your position.
+Q: Chrome yellow and black strips painted on pylons or on the roof of a building identifies
+X: an area where explosives are in use.
+Y: a fur farm.
+X: an artillery range.
+X: an open pit mine.
+Q: Pilots should not overfly reindeer or caribou at an altitude of less than
+X: 2,500 feet AGL.
+Y: 2,000 feet AGL.
+X: 1,500 feet AGL.
+X: 1,000 feet AGL.
