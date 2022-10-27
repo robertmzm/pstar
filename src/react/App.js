@@ -6,6 +6,7 @@ import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
 import React,{useState} from 'react';
 import PstarPage from './components/PstarPage'
+import WeightBalanceSheet from './components/WeightBalanceSheet'
 import { channels } from '../shared/constants';
 const { ipcRenderer } = window;
 
@@ -19,12 +20,12 @@ function App() {
       <Tab>PSTAR</Tab>
       <Tab>Weight and Balance</Tab>
     </TabList>
-      
+
     <TabPanel>
       <PstarPage />
     </TabPanel>
     <TabPanel>
-      <h2>Any content 2</h2>
+      <WeightBalanceSheet />
     </TabPanel>
     </Tabs>
     </div>
