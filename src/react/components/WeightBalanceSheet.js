@@ -100,7 +100,7 @@ function WeightBalanceSheet(props){
         </tr>
         <tr>
           <td>Fuel (6lbs/US Gal)</td>
-          <td style={centerText}><input name="fuel" type="text" onChange={handleChange} /></td>
+          <td><input style={centerText} name="fuel" type="text" onChange={handleChange} /></td>
           <td style={centerText}>{arms.fuel}</td>
           <td style={centerText}>{moments.fuel}</td>
         </tr>
@@ -124,7 +124,7 @@ function WeightBalanceSheet(props){
         </tr>
         <tr>
           <td>Fuel Burn</td>
-          <td style={centerText}><input name="fuelBurn" type="text" onChange={handleChange} /></td>
+          <td><input style={centerText} name="fuelBurn" type="text" onChange={handleChange} /></td>
           <td style={centerText}>{arms.fuel}</td>
           <td style={centerText}>{moments.fuelBurn}</td>
         </tr>
