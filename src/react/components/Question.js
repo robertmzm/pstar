@@ -47,8 +47,6 @@ function Option(props){
 
 function Question(props){
 	const re=/\n/
-	console.log()
-
 	const options = props.question.options
 	const listOptions = options.map((option) => 
 		<Option option={option}/>
