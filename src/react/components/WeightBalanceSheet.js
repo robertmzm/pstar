@@ -32,11 +32,11 @@ function WeightBalanceSheet(props){
     fuelBurn: inputs.fuelBurn*arms.fuel
   }
   moments.zeroFuel=moments.emptyWeight+moments.frontSeat+moments.rearSeat+moments.baggage1+moments.baggage2
-  arms.zeroFuel=moments.zeroFuel/weights.zeroFuel
+  arms.zeroFuel=weights.zeroFuel==0?0:moments.zeroFuel/weights.zeroFuel
 
   weights.rampWeight=weights.zeroFuel+inputs.fuel
   moments.rampWeight=moments.fuel+moments.zeroFuel
-  arms.rampWeight=moments.rampWeight/weights.rampWeight
+  arms.rampWeight=weights.rampWeight==0?0:moments.rampWeight/weights.rampWeight
 
   weights.takeOff=weights.rampWeight+weights.taxi
   moments.takeOff=moments.rampWeight+moments.taxi
