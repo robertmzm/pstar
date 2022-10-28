@@ -10,7 +10,7 @@ const centerText={
 }
 function WeightBalanceSheet(props){
 
-	const [inputs, setinputs] = useState({emptyWeight:0,arm:0,frontSeat:0,rearSeat:0,baggage1:0,baggage2:0,fuelBurn:0});
+	const [inputs, setinputs] = useState({emptyWeight:0,arm:0,frontSeat:0,rearSeat:0,baggage1:0,baggage2:0,fuelBurn:0,fuel:0});
   const arms = {frontSeat:37,rearSeat:73,baggage1:95,baggage2:123,fuel:48}
 
   var handleChange = (e) => {
