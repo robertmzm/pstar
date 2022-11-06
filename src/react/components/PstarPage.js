@@ -31,14 +31,13 @@ function PstarPage(props){
 	<Question question={question} chapterIndex={chapterIndex}/>
 	);
 	return(
-	<div><div>
-        <button style={styles.pageButton}
-          onClick={handleLeftButtonClick}> {"<<"} </button>
-        <button style={styles.pageButton}
-          onClick={handleRightButtonClick}> >> </button></div>
-      <h1 style={{"margin": 20}}>{chapterIndex+1}. {chapters[chapterIndex]}</h1>
+	<div>
+	
+			<td><button style={styles.pageButton}onClick={handleLeftButtonClick}> {"<<"} </button></td>
+			<td><h1 style={{"margin": 20}}>{chapterIndex+1}. {chapters[chapterIndex]}</h1></td>
+      <td><button style={styles.pageButton}onClick={handleRightButtonClick}> >> </button></td>
       {questionItems}
-      }</div>
+      </div>
     )
 }
 
