@@ -1,0 +1,61 @@
+Q: The amount of fuel and oil carried on board any helicopter at the commencement of a day VFR flight must be sufficient, to provide for foreseeable delays having been considered, to fly to the destination aerodrome,
+X:  and thereafter for 45 minutes at normal cruising speed.
+X:  then to a specified alternate and thereafter for 45 minutes at normal cruising speed.
+Y:  and thereafter for 20 minutes at normal cruising speed.
+X:  then to a specified alternate and thereafter for 20 minutes at normal cruising speed.
+Q: The amount of fuel carried on board any propeller-driven aeroplane at the commencement of a day VFR flight must be sufficient, having regard to the meteorological conditions and foreseeable delays that are expected in flight, to fly to the destination aerodrome
+X:  and then fly for a period of 45 minutes at normal cruising speed.
+Y:  and then fly for a period of 30 minutes at normal cruising speed.
+X:  then to a specified alternate and then for a period of 45 minutes at normal cruising speed.
+X:  then to a specified alternate and then fly for a period of 30 minutes at normal cruising speed.
+Q: If a flight plan is not filed, a flight itinerary must be filed
+Y:  for flights proceeding 25 NM or more from the point of origin.
+X:  only for flights in sparsely settled areas.
+X:  for flights destined to land at aerodromes or places other than the point of origin.
+X:  for all flights.
+Q: After landing from a VFR flight for which a flight plan has been filed, the pilot shall report the arrival to the appropriate ATS unit within
+X:  15 minutes.
+X:  30 minutes.
+X:  45 minutes.
+Y:  60 minutes.
+Q: When there is a deviation from a VFR flight plan, ATC shall be notified of such deviation
+Y:  as soon as possible.
+X:  within 10 minutes.
+X:  within 30 minutes.
+X:  within 60 minutes after landing.
+Q: Where no search and rescue initiation time is specified in a flight itinerary, when shall the pilot report to the "responsible person"?
+X:  Within one hour after the expiration of the estimated duration of the flight specified in the flight itinerary.
+X:  Within one hour after landing.
+X:  Within 24 hours after the expiration of the estimated duration of the flight specified in the flight itinerary.
+Y:  As soon as practicable after landing but no later than 24 hours after the last reported ETA.
+Q: With regard to a flight itinerary, the "responsible person" means someone who
+Y:  has agreed to report the aircraft overdue.
+X:  is 18 years of age or over.
+X:  holds an aeronautical licence.
+X:  has agreed to report the arrival of the aircraft.
+Q: Where a VFR flight plan has been filed, an arrival report must be filed by the pilot
+Y:  by advising an ATS unit.
+X:  at each intermediate stop and then reopened on take-off.
+X:  by parking the aircraft in close proximity to the tower.
+X:  except at airports served by a control tower in which case the tower will automatically close the flight plan.
+Q: Estimated elapsed time A to B
+1 hour 15 minutes.
+Estimated stopover time at B
+30 minutes.
+Estimated elapsed time B to C
+1 hour 20 minutes.
+ Using the above information, what time should be entered in the "Elapsed Time" box of a VFR flight plan?
+X:  3 hours 50 minutes.
+X:  3 hours 20 minutes.
+Y:  3 hours 05 minutes.
+X:  2 hours 35 minutes.
+Q: When filing a VFR flight plan with an intermediate stop, the total elapsed time to be entered is the total
+Y:  elapsed time for all legs including the duration of the intermediate stop.
+X:  elapsed time for all legs, plus the intermediate stop, plus 45 minutes.
+X:  flight time for all legs.
+X:  elapsed time to the first landing plus intermediate stops.
+Q: How is an intermediate stop indicated on the flight plan form for a VFR flight?
+X:  By including duration of the intermediate stop in "Elapsed Time" box as ATC automatically checks time between points.
+X:  Same as any VFR flight plan if the intermediate time does not exceed 30 minutes at each point.
+Y:  By repeating the name of intermediate stop and its duration in the "Route" column.
+X:  By simply indicating "Intermediate Stop" in "Other Information" column.

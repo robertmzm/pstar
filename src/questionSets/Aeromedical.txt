@@ -1,0 +1,65 @@
+Q: A flight crew member aware of being under a physical disability that might invalidate licence issue or renewal shall
+X: so advise the Minister.
+Y: not commence a flight as a crew member.
+X: forward the licence to the Regional Aviation Medical Officer.
+X: fly as crew member only if a back-up member is available.
+Q: What is the recommended treatment for hyperventilation below 8,000 feet?
+X: Increase the depth of breathing.
+X: Hold the breath and perform a Valsalva manoeuvre.
+Y: Slow the breathing rate to below 12 times per minute.
+X: Increase oxygen flow rates.
+Q: Damage to the ear drum in flight is most likely to occur
+X: during a climb.
+Y: during a descent.
+X: when using supplementary oxygen.
+X: after SCUBA diving.
+Q: Clearing the ears on a rapid descent may be assisted by
+X: swallowing.
+X: opening the mouth widely or yawning.
+X: a Valsalva manoeuvre.
+Y: all of the above.
+Q: Flight crew members who require decompression stops on the way to the surface when SCUBA diving should not fly for
+X: 4 hours.
+X: 8 hours.
+X: 12 hours.
+Y: 24 hours.
+Q: With regard to fatigue, which statement is correct according to the information given under the "Medical Information" section of the A.I.P. Canada?
+X: Financial or family problems do not influence tolerance to fatigue.
+Y: Fatigue slows reaction time and causes foolish inattentive errors.
+X: A fatigued person recuperates more quickly as altitude is gained.
+X: A fatigued person must have food immediately before and during flight.
+Q: A pilot who has donated blood should not act as a flight crew member for at least the next
+X: 12 hours.
+X: 24 hours.
+X: 36 hours.
+Y: 48 hours.
+Q: Any pilot who has had a general anaesthetic should not act as a flight crew member
+X: during the next 12 hrs.
+X: during the next 36 hrs.
+X: during the next 48 hrs.
+Y: unless advised it is safe to do so by a doctor.
+Q: Any pilot who has had a local anaesthetic for extensive dental procedures should not act as a flight crew member during the next
+X: 12 hrs.
+Y: 24 hrs.
+X: 36 hrs.
+X: 48 hrs.
+Q: Relatively small amounts of alcohol affect tolerance to hypoxia (lack of sufficient oxygen). This tolerance
+Y: deteriorates with increase of altitude.
+X: improves with increase of altitude.
+X: is not affected by altitude change.
+X: remains constant to 6,000 feet ASL.
+Q: Many common drugs such as cold tablets, cough mixtures, antihistamines and other over-the-counter remedies may seriously impair the judgement and co-ordination needed while flying. The safest rule is to
+X: read the manufacturer's warning to ensure that you are aware of possible reactions to such drugs.
+Y: take no medicine when you plan to fly, except on the advice of an Aviation Medical Examiner.
+X: allow at least 12 hours between taking any medicine or drugs and flying.
+X: allow at least 8 hours between taking any medicine or drugs and flying.
+Q: The Canadian Medical Certificate of a private pilot 40 years old and over is valid, in Canada, for a period of
+X: 12 months.
+Y: 24 months.
+X: 36 months.
+X: 48 months.
+Q: The Canadian Medical Certificate of a private pilot under 40 years of age is valid, in Canada, for a period of
+X: 72 months.
+Y: 60 months.
+X: 48 months.
+X: 24 months.

@@ -1,0 +1,115 @@
+Q: If cleared for take-off immediately following the very low approach and overshoot of a large aircraft, the pilot should
+X: take off immediately otherwise the trailing vortices will descend into the flight path
+X: taxi to position on the runway and wait until it is considered safe to take off.
+Y: decline take-off clearance and inform ATC of the reason for non-acceptance.
+X: wait for 2 minutes after the large aircraft has passed then take off.
+Q: The controller suggests a take-off from a runway intersection. The pilot must be aware that
+X: the remaining runway length will not be stated by the controller.
+Y: it is the pilot's responsibility to ensure that the remaining runway length is sufficient for take-off.
+X: the controller will ensure that the remaining runway length is sufficient for take-off.
+X: noise abatement procedures have been cancelled.
+Q: A pilot requests an intersection take-off from ATC. If authorized,
+X: the controller will always give the remaining runway length.
+X: the controller will ensure that the remaining runway length is sufficient for take-off.
+Y: it is the pilot's responsibility to ensure that the remaining runway length is sufficient for take-off.
+X: any noise abatement procedures for the runway are automatically cancelled.
+Q: When an arriving aircraft is cleared "to the circuit", the pilot should interpret this to mean join the circuit
+Y: on the downwind leg.
+X: from the upwind side of the runway in all cases.
+X: on base leg if convenient.
+X: on final for a straight in approach.
+Q: When a NORDO aircraft crosses an airport for the purpose of obtaining landing information it should maintain
+X: circuit height.
+X: 1,000 feet above circuit height.
+X: at least 2,000 feet AGL.
+Y: at least 500 feet above circuit height.
+Q: An aircraft is "cleared to the circuit" where a left hand circuit is in effect. Without further approval from ATC a right turn may be made to
+X: join the final leg.
+X: join the base leg.
+Y: join cross-wind or a partial right turn to join the downwind leg.
+X: descend on the downwind leg.
+Q: When instructed to continue an approach to a runway which is clear of traffic, what action should the pilot take if no landing clearance is received?
+X: Circle 360° to the left.
+X: Circle 360° in the direction of the circuit.
+X: Complete the landing.
+Y: Request landing clearance.
+Q: A Special Procedure NOTAM has been published for an airport, which is 400 feet ASL, stating the circuit height is 1,500 feet ASL. When the ceiling is 1,000 overcast and the visibility is 3 miles, the circuit height in controlled airspace should be
+Y: 500 feet below the cloud base.
+X: 1,500 feet ASL.
+X: 1,100 feet above the airport elevation.
+X: 1,000 feet above the airport elevation.
+Q: When the reported ceiling is 1,000 feet overcast and visibility is 3 miles, to remain VFR, an aircraft cleared to the circuit must join
+X: as high as possible without entering cloud.
+Y: at 500 feet below cloud base.
+X: at 700 feet AGL.
+X: in accordance with Special VFR.
+Q: Aircraft flying VFR normally join the circuit at 1,000 feet AAE. This may not always be possible because of
+X: the possibility of a "straight in" clearance to the airport in which case the final leg would normally be entered at less than 1,000 feet.
+X: the existence of a special procedures NOTAM which provides for a different circuit altitude.
+X: weather conditions which may necessitate a circuit height lower than 1,000 feet.
+Y: the existence of any of the above circumstances.
+Q: A pilot on final approach is requested by ATC to reduce airspeed. The pilot should
+Y: comply, giving due consideration to safe minimum manoeuvring speed of the aircraft.
+X: acknowledge transmission and execute a 360° turn.
+X: overshoot and rejoin the circuit.
+X: reduce airspeed well below normal approach speed range.
+Q: A pilot is cleared to land but is concerned about the high cross-wind component. The pilot should
+X: use full flaps and approach at a reduced speed.
+X: alter heading and land on another runway which is more into wind.
+Y: overshoot and request an into-wind runway.
+X: continue the approach and land as the clearance must be obeyed.
+Q: A pilot on a VFR flight is being vectored by ATC towards an extensive unbroken layer of cloud. The responsibility for remaining VFR rests with
+X: the radar operator.
+X: ATC since the flight is designated VFR.
+X: ATC since the cloud is visible on radar.
+Y: the pilot.
+Q: A student pilot on a VFR flight has been given a radar vector by ATC. Ahead, at a lower altitude, is a solid overcast cloud condition. The pilot should
+X: climb above the cloud and fly "VFR over the top".
+Y: alter heading as necessary to remain VFR and advise ATC.
+X: maintain heading and altitude as it is an ATC clearance.
+X: maintain heading and altitude because ATC knows of the cloud and will issue further instructions.
+Q: An aircraft on a Special VFR flight has been cleared for a "straight in" approach. Because of low ceiling and poor visibility, the pilot is concerned about the exact location of a radio mast in the vicinity. Avoiding this obstruction is the responsibility
+Y: of the pilot.
+X: of the tower controller as the controller is aware of the obstruction.
+X: of ATC as the pilot has been given Special VFR clearance.
+X: shared equally by the pilot and the controller.
+Q: A pilot on a Special VFR flight has been cleared to the circuit. Ahead, at a lower altitude, is a solid layer of stratus cloud. Remaining clear of cloud is the responsibility of
+X: the tower controller as it is within a Control Zone.
+X: ATC because the weather is below VFR.
+X: the pilot and ATC.
+Y: the pilot.
+Q: A pilot on a VFR flight in Class C airspace is advised by ATC to maintain a specific heading. In the pilot's opinion, this heading will cause conflict with another aircraft. The pilot should
+X: always change altitude as required to avoid the other aircraft.
+X: maintain the specified heading to comply with the regulations.
+Y: alter heading to avoid the other aircraft and advise ATC.
+X: maintain the specified heading as separation will be provided by the controller.
+Q: Unless ATC instructs otherwise, pilots operating VFR shall select transponder code 1200 when flying at or below ..... feet ASL and code ..... when flying above that altitude.
+Y: 12,500, 1400.
+X: 12,500, 1300.
+X: 10,000, 1400.
+X: 10,000, 1300.
+Q: Pilots shall activate the transponder "ident" feature
+X: before entering control zones.
+Y: only when so instructed by ATC.
+X: before every change of altitude.
+X: after every change of an assigned code.
+Q: The holder of a student pilot permit may for the sole purpose of the holder's own flight training act as PIC of an aircraft
+X: only when accompanied by a flight instructor.
+X: by day and night.
+Y: by day only.
+X: while carrying passengers.
+6.21. The PIC of an aircraft shall comply with any light signals or ground marking prescribed in the CARs
+X: only while in class C airspace if they are part of an ATC clearance.
+X: only while in a Control Zone if they are part of an ATC instruction.
+X: at all times.
+Y: at all times provided safety is not jeopardized.
+Q: Before setting out on any VFR flight, a pilot is required to
+X: read all weather reports received from stations within 100 miles of destination.
+X: file a flight itinerary.
+Y: be familiar with all available information appropriate to the flight.
+X: obtain an ATC clearance.
+Q: Terminal airspace dimensions and VHF sector frequencies for certain high density traffic airports in Canada are shown
+X: in the Designated Airspace Handbook and the A.I.P. Canada.
+Y: on the VTA chart and in the CFS.
+X: on the VTA and VNC charts.
+X: in the CFS and on the VNC chart.

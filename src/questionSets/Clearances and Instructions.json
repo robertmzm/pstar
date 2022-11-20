@@ -1,0 +1,132 @@
+[
+    {
+        "question": "Clearances and Instructions",
+        "options": []
+    },
+    {
+        "question": "An ATC instruction",
+        "options": [
+            {
+                "option": " must be complied with when received by the pilot providing the safety of the aircraft is not jeopardized.",
+                "correct": true
+            },
+            {
+                "option": " must be \"read back\" in full to the controller and confirmed before becoming effective.",
+                "correct": false
+            },
+            {
+                "option": " is in effect advice provided by ATC and does not require acceptance or formal acknowledgement by the pilot concerned.",
+                "correct": false
+            },
+            {
+                "option": " is the same as an ATC clearance.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "An ATC clearance",
+        "options": [
+            {
+                "option": " is the same as an ATC instruction.",
+                "correct": false
+            },
+            {
+                "option": " is in effect advice provided by ATC and does not require acceptance or acknowledgement by the PIC.",
+                "correct": false
+            },
+            {
+                "option": " requires compliance when accepted by the PIC.",
+                "correct": true
+            },
+            {
+                "option": " must be complied with when received by the PIC.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A pilot, after accepting a clearance and subsequently finding that all or part of the clearance cannot be complied with, should",
+        "options": [
+            {
+                "option": " disregard the clearance.",
+                "correct": false
+            },
+            {
+                "option": " comply with only the part that is suitable.",
+                "correct": false
+            },
+            {
+                "option": " comply as best as possible under the circumstances to carry out the clearance and need not say anything to ATC.",
+                "correct": false
+            },
+            {
+                "option": " comply as best as possible under the circumstances and advise ATC as soon as possible.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "After accepting a clearance and subsequently finding that it cannot be complied with, a pilot should",
+        "options": [
+            {
+                "option": " take any immediate action required and advise ATC as soon as possible.",
+                "correct": true
+            },
+            {
+                "option": " comply as best as possible under the circumstances and say nothing to ATC.",
+                "correct": false
+            },
+            {
+                "option": " disregard the clearance.",
+                "correct": false
+            },
+            {
+                "option": " comply with the suitable parts.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "An ATC clearance or instruction is predicated on known traffic only. Therefore, when a pilot is proceeding in accordance with a clearance or instruction",
+        "options": [
+            {
+                "option": " ATC is relieved of the responsibility for traffic separation.",
+                "correct": false
+            },
+            {
+                "option": " the responsibility for traffic separation is divided between ATC and the pilot.",
+                "correct": false
+            },
+            {
+                "option": " the pilot is not relieved of the responsibility for traffic avoidance.",
+                "correct": true
+            },
+            {
+                "option": " the pilot is relieved of the responsibility for traffic avoidance.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "If all or part of an ATC clearance is unacceptable, a pilot should",
+        "options": [
+            {
+                "option": " comply as best as possible under the circumstances.",
+                "correct": false
+            },
+            {
+                "option": " refuse the clearance without giving a reason for refusal.",
+                "correct": false
+            },
+            {
+                "option": " acknowledge the clearance and read back only the acceptable parts.",
+                "correct": false
+            },
+            {
+                "option": " refuse the clearance and inform ATC of the pilots intentions.",
+                "correct": true
+            }
+        ]
+    }
+]

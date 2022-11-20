@@ -2,7 +2,9 @@
 import Question from './Question'
 import React,{useState} from 'react';
 
-const chapters = ["Colision Avoidance", "Visual Signals", "Communication","Aerodromes","Equipment"]
+const chapters = ["Colision Avoidance", "Visual Signals", "Communication",
+	"Aerodromes","Equipment","Pilot Responsibilities","Wake Turbulence","Aeromedical",
+	"Flight Plans and Flight Itineraries", "Clearances and Instructions"]
 
 
 function PstarPage(props){

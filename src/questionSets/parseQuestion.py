@@ -10,7 +10,7 @@ class Option:
     def __repr__(self):
         return self.text
 
-filename = "Equipment"
+filename = "Clearances and Instructions"
 extension = ".txt"
 with open(filename+extension) as f:
     lines = f.readlines()

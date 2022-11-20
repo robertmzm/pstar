@@ -1,0 +1,31 @@
+Q: Clearances and Instructions
+Q: An ATC instruction
+Y:  must be complied with when received by the pilot providing the safety of the aircraft is not jeopardized.
+X:  must be "read back" in full to the controller and confirmed before becoming effective.
+X:  is in effect advice provided by ATC and does not require acceptance or formal acknowledgement by the pilot concerned.
+X:  is the same as an ATC clearance.
+Q: An ATC clearance
+X:  is the same as an ATC instruction.
+X:  is in effect advice provided by ATC and does not require acceptance or acknowledgement by the PIC.
+Y:  requires compliance when accepted by the PIC.
+X:  must be complied with when received by the PIC.
+Q: A pilot, after accepting a clearance and subsequently finding that all or part of the clearance cannot be complied with, should
+X:  disregard the clearance.
+X:  comply with only the part that is suitable.
+X:  comply as best as possible under the circumstances to carry out the clearance and need not say anything to ATC.
+Y:  comply as best as possible under the circumstances and advise ATC as soon as possible.
+Q: After accepting a clearance and subsequently finding that it cannot be complied with, a pilot should
+Y:  take any immediate action required and advise ATC as soon as possible.
+X:  comply as best as possible under the circumstances and say nothing to ATC.
+X:  disregard the clearance.
+X:  comply with the suitable parts.
+Q: An ATC clearance or instruction is predicated on known traffic only. Therefore, when a pilot is proceeding in accordance with a clearance or instruction
+X:  ATC is relieved of the responsibility for traffic separation.
+X:  the responsibility for traffic separation is divided between ATC and the pilot.
+Y:  the pilot is not relieved of the responsibility for traffic avoidance.
+X:  the pilot is relieved of the responsibility for traffic avoidance.
+Q: If all or part of an ATC clearance is unacceptable, a pilot should
+X:  comply as best as possible under the circumstances.
+X:  refuse the clearance without giving a reason for refusal.
+X:  acknowledge the clearance and read back only the acceptable parts.
+Y:  refuse the clearance and inform ATC of the pilots intentions.
