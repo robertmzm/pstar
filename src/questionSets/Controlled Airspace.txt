@@ -1,0 +1,60 @@
+Q: "Controlled Airspace" means all airspace of defined dimensions within which
+X:  Control Zone regulations are in force.
+X:  security regulations are in force.
+X:  Special VFR flight only is permitted.
+Y:  an ATC service is provided.
+Q: When in VFR flight within controlled airspace, a pilot must remain clear of cloud by at least
+Y:  500 feet vertically and 1 mile horizontally.
+X:  500 feet vertically and 2,000 feet horizontally.
+X:  1,000 feet vertically and 1 mile horizontally.
+X:  1,000 feet vertically and 3 miles horizontally.
+Q: The minimum flight visibility for VFR flight within a low level airway is
+X:  1 mile.
+X:  1½ miles.
+X:  2 miles.
+Y:  3 miles.
+Q: When in VFR flight within a Control Zone, a pilot must remain clear of cloud by at least
+X:  500 feet vertically and 2,000 feet horizontally.
+Y:  500 feet vertically and 1 mile horizontally.
+X:  1,000 feet vertically and 1 mile horizontally.
+X:  1,000 feet vertically and 3 miles horizontally.
+Q: VFR cross-country pilots wishing to cross through any part of a Class C Control Zone should
+X:  advise the associated FSS.
+X:  monitor the Approach Control frequency.
+Y:  advise ATC of their intentions and obtain a clearance.
+X:  conform with circuit direction at that airport.
+Q: ATC may authorize an aeroplane equipped with a functioning two-way radio to transit a Control Zone under day Special VFR provided the flight visibility and, when reported, ground visibility, are each not less than ....
+X:  1/2 mile.
+Y:  1 mile.
+X:  2 miles.
+X:  3 miles.
+Q: ATC may authorize a helicopter equipped with a functioning two-way radio to transit a Control Zone under day Special VFR where the flight visibility and, when reported, ground visibility are each not less than ....
+X:  1 mile and operated at not less than 500 feet AGL.
+Y:  1/2 mile.
+X:  1 mile.
+X:  1/2 mile and operated at not less than 500 feet AGL.
+Q: An aircraft flying in accordance with Special VFR would be flying within
+Y:  a Control Zone.
+X:  an Aerodrome Traffic Zone.
+X:  a Terminal Control Area.
+X:  an airway.
+Q: An arriving VFR flight shall make initial radio contact with the control tower
+X:  upon entering an Aerodrome Traffic Zone.
+Y:  prior to entering a Control Zone.
+X:  immediately prior to joining the circuit.
+X:  immediately after entering a Control Zone.
+Q: VFR flight within Class B airspace is permitted
+X:  only when the flight visibility is 5 miles or better.
+X:  for all aircraft except gliders and balloons.
+X:  if the pilot holds a Class B Airspace Endorsement.
+Y:  in accordance with an ATC clearance.
+Q: The pilot of an arriving VFR flight shall make initial radio contact with a control tower in Class C airspace
+X:  immediately after entering the Control Zone.
+X:  10 NM outside the Control Zone.
+Y:  prior to entering the Control Zone.
+X:  immediately prior to joining the circuit.
+Q: Unless otherwise authorized, a pilot on a VFR flight operating within a Class C Terminal Control Area must
+X:  exit the airspace whenever the weather deteriorates below VFR limits.
+X:  establish radio contact with the appropriate ATC unit only when transiting the associated Control Zone.
+Y:  establish and maintain radio communication with the appropriate ATC Unit.
+X:  contact Radar Service only when taking off or landing at the major airport concerned.

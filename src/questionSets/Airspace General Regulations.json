@@ -1,0 +1,443 @@
+[
+    {
+        "question": "ADIZ rules normally apply",
+        "options": [
+            {
+                "option": " only to aircraft flying above 12,500 feet.",
+                "correct": false
+            },
+            {
+                "option": " only to aircraft flying at true airspeeds of 180 KT or more.",
+                "correct": false
+            },
+            {
+                "option": " only to all southbound aircraft.",
+                "correct": false
+            },
+            {
+                "option": " to all aircraft.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "When operating in accordance with VFR, aircraft shall be flown",
+        "options": [
+            {
+                "option": " clear of aerodrome traffic zones.",
+                "correct": false
+            },
+            {
+                "option": " clear of control zones.",
+                "correct": false
+            },
+            {
+                "option": " with visual reference to the surface.",
+                "correct": true
+            },
+            {
+                "option": " in compliance with all of the above.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Normally, a helicopter in uncontrolled airspace at less than 1,000 feet AGL may operate during the day in flight visibility which is not less than",
+        "options": [
+            {
+                "option": " 1/2 mile.",
+                "correct": false
+            },
+            {
+                "option": " 1 mile.",
+                "correct": true
+            },
+            {
+                "option": " 2 miles.",
+                "correct": false
+            },
+            {
+                "option": " 3 miles.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What distance from cloud shall an aircraft maintain when flying below 1,000 feet AGL within uncontrolled airspace?",
+        "options": [
+            {
+                "option": " At least 2,000 feet horizontally and 500 feet vertically.",
+                "correct": false
+            },
+            {
+                "option": " At least 1 mile horizontally and 500 feet vertically.",
+                "correct": false
+            },
+            {
+                "option": " At least 2 miles horizontally and 500 feet vertically.",
+                "correct": false
+            },
+            {
+                "option": " Clear of cloud.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "No person shall drop anything from an aircraft in flight",
+        "options": [
+            {
+                "option": " which will create a hazard to persons or property.",
+                "correct": true
+            },
+            {
+                "option": " unless approval has been granted by the Minister.",
+                "correct": false
+            },
+            {
+                "option": " unless over an authorized jettison area.",
+                "correct": false
+            },
+            {
+                "option": " unless it is attached to a parachute.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A person may conduct aerobatic manoeuvres in an aircraft",
+        "options": [
+            {
+                "option": " over an airport provided the appropriate frequency is monitored.",
+                "correct": false
+            },
+            {
+                "option": " over the suburban area of a city above 2,000 feet AGL.",
+                "correct": false
+            },
+            {
+                "option": " within Class F advisory airspace when visibility is 3 miles or greater.",
+                "correct": true
+            },
+            {
+                "option": " within Class C airspace when the visibility is 1 mile or greater.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "CARs state that after the consumption of any alcoholic beverage, no person shall act as a crew member of an aircraft within",
+        "options": [
+            {
+                "option": " 8 hours.",
+                "correct": false
+            },
+            {
+                "option": " 12 hours.",
+                "correct": true
+            },
+            {
+                "option": " 24 hours.",
+                "correct": false
+            },
+            {
+                "option": " 36 hours.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Day in Canada is that period of time between",
+        "options": [
+            {
+                "option": " sunrise and sunset.",
+                "correct": false
+            },
+            {
+                "option": " one hour before sunrise and one hour after sunset.",
+                "correct": false
+            },
+            {
+                "option": " the beginning of morning civil twilight and the end of evening civil twilight.",
+                "correct": true
+            },
+            {
+                "option": " the end of morning civil twilight and the beginning of evening civil twilight.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Night in Canada is that period of time between",
+        "options": [
+            {
+                "option": " sunset and sunrise.",
+                "correct": false
+            },
+            {
+                "option": " the beginning of evening civil twilight and the end of morning civil twilight.",
+                "correct": false
+            },
+            {
+                "option": " one hour after sunset and one hour before sunrise.",
+                "correct": false
+            },
+            {
+                "option": " the end of evening civil twilight and the beginning of morning civil twilight.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Formation flying is permitted only if such flights",
+        "options": [
+            {
+                "option": " have been pre-arranged by the pilots-in-command.",
+                "correct": true
+            },
+            {
+                "option": " are conducted above 3,000 feet AGL.",
+                "correct": false
+            },
+            {
+                "option": " are conducted by commercial pilots.",
+                "correct": false
+            },
+            {
+                "option": " are led by a pilot whose licence is endorsed for formation flight.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Flight through active Class F airspace with the designator CYR",
+        "options": [
+            {
+                "option": " may be undertaken only by aircraft equipped with two-way radio communication and a transponder.",
+                "correct": false
+            },
+            {
+                "option": " is restricted to military aircraft operating under the authority of the Minister of National Defence.",
+                "correct": false
+            },
+            {
+                "option": " will be approved only for aircraft on IFR flight plans under positive radar control.",
+                "correct": false
+            },
+            {
+                "option": " is permitted only in accordance with permission issued by the user agency.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Which statement is correct with regard to \"advisory airspace\"?",
+        "options": [
+            {
+                "option": " A transient aircraft entering active advisory airspace shall be equipped with a serviceable transponder.",
+                "correct": false
+            },
+            {
+                "option": " Non-participating VFR aircraft are encouraged to avoid flight in advisory airspace during active periods specified on aeronautical charts and NOTAM.",
+                "correct": true
+            },
+            {
+                "option": " Aircraft need to be equipped with a two-way radio to enter active advisory airspace.",
+                "correct": false
+            },
+            {
+                "option": " Only military aircraft may enter advisory airspace depicted on aeronautical charts.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Except as provided by CARs, unless taking off, landing or attempting to land, no person shall fly a helicopter over a built-up area or open air assembly of persons except at an altitude that will permit, in the event of an emergency, the landing of the aircraft without creating a hazard to persons or property on the surface, and such altitude shall not be less than ..... above the highest obstacle within a horizontal radius of ..... from the aircraft.",
+        "options": [
+            {
+                "option": " 3,000 feet, 1 mile.",
+                "correct": false
+            },
+            {
+                "option": " 2,000 feet, 1,000 feet.",
+                "correct": false
+            },
+            {
+                "option": " 1,000 feet, 500 feet.",
+                "correct": true
+            },
+            {
+                "option": " 500 feet, 500 feet.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Over non-populous areas or over open water, a pilot may not fly an aircraft at a distance less than ..... feet from any person, vessel, vehicle or structure.",
+        "options": [
+            {
+                "option": " 200.",
+                "correct": false
+            },
+            {
+                "option": " 500.",
+                "correct": true
+            },
+            {
+                "option": " 1,000.",
+                "correct": false
+            },
+            {
+                "option": " 2,000.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Except for balloons and as provided by CARs, no person shall cause any aircraft to take off or attempt to take off from, land on or attempt to land on, any surface within the built-up area of any city or town unless",
+        "options": [
+            {
+                "option": " the aircraft is multi-engined.",
+                "correct": false
+            },
+            {
+                "option": " all obstacles on approach and departure can be cleared by a minimum of 500 feet.",
+                "correct": false
+            },
+            {
+                "option": " that surface is an airport or military aerodrome.",
+                "correct": true
+            },
+            {
+                "option": " noise abatement procedures are followed.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the height AGL above which an aircraft in VFR flight shall be operated to conform with the Cruising Altitudes Order?",
+        "options": [
+            {
+                "option": " 700 feet.",
+                "correct": false
+            },
+            {
+                "option": " 2,200 feet.",
+                "correct": false
+            },
+            {
+                "option": " 3,000 feet.",
+                "correct": true
+            },
+            {
+                "option": " 3,500 feet.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "An aircraft cruising VFR in level flight above 3,000 feet AGL on a track of 290\u00b0M shall be flown at an",
+        "options": [
+            {
+                "option": " even thousand foot altitude.",
+                "correct": false
+            },
+            {
+                "option": " even thousand plus 500 foot altitude.",
+                "correct": true
+            },
+            {
+                "option": " odd thousand foot altitude.",
+                "correct": false
+            },
+            {
+                "option": " odd thousand plus 500 foot altitude.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The selection of a cruising altitude in the Southern Domestic Airspace should be based on the",
+        "options": [
+            {
+                "option": " true track.",
+                "correct": false
+            },
+            {
+                "option": " magnetic track.",
+                "correct": true
+            },
+            {
+                "option": " true heading.",
+                "correct": false
+            },
+            {
+                "option": " magnetic heading.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Every person who is the holder of any pilot licence or permit shall, on demand, produce such licence or permit for inspection by persons authorized by the Minister, by peace officers and",
+        "options": [
+            {
+                "option": " FSS operators.",
+                "correct": false
+            },
+            {
+                "option": " Transport Canada airport managers.",
+                "correct": false
+            },
+            {
+                "option": " immigration officers.",
+                "correct": true
+            },
+            {
+                "option": " all of the above.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Low Level Airspace is defined as, all airspace",
+        "options": [
+            {
+                "option": " extending upwards from 2,200 feet AGL within designated airways.",
+                "correct": false
+            },
+            {
+                "option": " extending upwards from 700 feet AGL within designated airways.",
+                "correct": false
+            },
+            {
+                "option": " extending upwards from the surface of the earth within designated airways.",
+                "correct": false
+            },
+            {
+                "option": " within the Canadian Domestic Airspace below 18,000 feet ASL.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A Control Zone normally is controlled airspace extending upwards from",
+        "options": [
+            {
+                "option": " 2,200 feet above the surface of the earth.",
+                "correct": false
+            },
+            {
+                "option": " 700 feet above the surface of the earth.",
+                "correct": false
+            },
+            {
+                "option": " the surface of the earth to 3,000 feet.",
+                "correct": true
+            },
+            {
+                "option": " a specified height above the surface of the earth.",
+                "correct": false
+            }
+        ]
+    }
+]

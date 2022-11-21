@@ -1,0 +1,254 @@
+[
+    {
+        "question": "\"Controlled Airspace\" means all airspace of defined dimensions within which",
+        "options": [
+            {
+                "option": " Control Zone regulations are in force.",
+                "correct": false
+            },
+            {
+                "option": " security regulations are in force.",
+                "correct": false
+            },
+            {
+                "option": " Special VFR flight only is permitted.",
+                "correct": false
+            },
+            {
+                "option": " an ATC service is provided.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "When in VFR flight within controlled airspace, a pilot must remain clear of cloud by at least",
+        "options": [
+            {
+                "option": " 500 feet vertically and 1 mile horizontally.",
+                "correct": true
+            },
+            {
+                "option": " 500 feet vertically and 2,000 feet horizontally.",
+                "correct": false
+            },
+            {
+                "option": " 1,000 feet vertically and 1 mile horizontally.",
+                "correct": false
+            },
+            {
+                "option": " 1,000 feet vertically and 3 miles horizontally.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The minimum flight visibility for VFR flight within a low level airway is",
+        "options": [
+            {
+                "option": " 1 mile.",
+                "correct": false
+            },
+            {
+                "option": " 1\u00bd miles.",
+                "correct": false
+            },
+            {
+                "option": " 2 miles.",
+                "correct": false
+            },
+            {
+                "option": " 3 miles.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "When in VFR flight within a Control Zone, a pilot must remain clear of cloud by at least",
+        "options": [
+            {
+                "option": " 500 feet vertically and 2,000 feet horizontally.",
+                "correct": false
+            },
+            {
+                "option": " 500 feet vertically and 1 mile horizontally.",
+                "correct": true
+            },
+            {
+                "option": " 1,000 feet vertically and 1 mile horizontally.",
+                "correct": false
+            },
+            {
+                "option": " 1,000 feet vertically and 3 miles horizontally.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "VFR cross-country pilots wishing to cross through any part of a Class C Control Zone should",
+        "options": [
+            {
+                "option": " advise the associated FSS.",
+                "correct": false
+            },
+            {
+                "option": " monitor the Approach Control frequency.",
+                "correct": false
+            },
+            {
+                "option": " advise ATC of their intentions and obtain a clearance.",
+                "correct": true
+            },
+            {
+                "option": " conform with circuit direction at that airport.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "ATC may authorize an aeroplane equipped with a functioning two-way radio to transit a Control Zone under day Special VFR provided the flight visibility and, when reported, ground visibility, are each not less than ....",
+        "options": [
+            {
+                "option": " 1/2 mile.",
+                "correct": false
+            },
+            {
+                "option": " 1 mile.",
+                "correct": true
+            },
+            {
+                "option": " 2 miles.",
+                "correct": false
+            },
+            {
+                "option": " 3 miles.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "ATC may authorize a helicopter equipped with a functioning two-way radio to transit a Control Zone under day Special VFR where the flight visibility and, when reported, ground visibility are each not less than ....",
+        "options": [
+            {
+                "option": " 1 mile and operated at not less than 500 feet AGL.",
+                "correct": false
+            },
+            {
+                "option": " 1/2 mile.",
+                "correct": true
+            },
+            {
+                "option": " 1 mile.",
+                "correct": false
+            },
+            {
+                "option": " 1/2 mile and operated at not less than 500 feet AGL.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "An aircraft flying in accordance with Special VFR would be flying within",
+        "options": [
+            {
+                "option": " a Control Zone.",
+                "correct": true
+            },
+            {
+                "option": " an Aerodrome Traffic Zone.",
+                "correct": false
+            },
+            {
+                "option": " a Terminal Control Area.",
+                "correct": false
+            },
+            {
+                "option": " an airway.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "An arriving VFR flight shall make initial radio contact with the control tower",
+        "options": [
+            {
+                "option": " upon entering an Aerodrome Traffic Zone.",
+                "correct": false
+            },
+            {
+                "option": " prior to entering a Control Zone.",
+                "correct": true
+            },
+            {
+                "option": " immediately prior to joining the circuit.",
+                "correct": false
+            },
+            {
+                "option": " immediately after entering a Control Zone.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "VFR flight within Class B airspace is permitted",
+        "options": [
+            {
+                "option": " only when the flight visibility is 5 miles or better.",
+                "correct": false
+            },
+            {
+                "option": " for all aircraft except gliders and balloons.",
+                "correct": false
+            },
+            {
+                "option": " if the pilot holds a Class B Airspace Endorsement.",
+                "correct": false
+            },
+            {
+                "option": " in accordance with an ATC clearance.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "The pilot of an arriving VFR flight shall make initial radio contact with a control tower in Class C airspace",
+        "options": [
+            {
+                "option": " immediately after entering the Control Zone.",
+                "correct": false
+            },
+            {
+                "option": " 10 NM outside the Control Zone.",
+                "correct": false
+            },
+            {
+                "option": " prior to entering the Control Zone.",
+                "correct": true
+            },
+            {
+                "option": " immediately prior to joining the circuit.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Unless otherwise authorized, a pilot on a VFR flight operating within a Class C Terminal Control Area must",
+        "options": [
+            {
+                "option": " exit the airspace whenever the weather deteriorates below VFR limits.",
+                "correct": false
+            },
+            {
+                "option": " establish radio contact with the appropriate ATC unit only when transiting the associated Control Zone.",
+                "correct": false
+            },
+            {
+                "option": " establish and maintain radio communication with the appropriate ATC Unit.",
+                "correct": true
+            },
+            {
+                "option": " contact Radar Service only when taking off or landing at the major airport concerned.",
+                "correct": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,359 @@
+[
+    {
+        "question": "In an emergency requiring the use of an ELT, it should be turned on",
+        "options": [
+            {
+                "option": " immediately and left on.",
+                "correct": true
+            },
+            {
+                "option": " at the ETA in the flight plan.",
+                "correct": false
+            },
+            {
+                "option": " for the first five minutes of each hour UTC.",
+                "correct": false
+            },
+            {
+                "option": " during daylight hours only to conserve the battery.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "An aircraft's ELT may be switched to transmit for test purposes anytime",
+        "options": [
+            {
+                "option": " following a hard landing.",
+                "correct": false
+            },
+            {
+                "option": " during the first 5 minutes of any hour UTC.",
+                "correct": true
+            },
+            {
+                "option": " following a component or battery change.",
+                "correct": false
+            },
+            {
+                "option": " prior to flight and listening on 121.5 MHz.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Before shutting down you can verify that the aircraft's ELT is not transmitting by",
+        "options": [
+            {
+                "option": " checking that the ELT switch is in the off position.",
+                "correct": false
+            },
+            {
+                "option": " listening on 121.5 MHz for a signal.",
+                "correct": true
+            },
+            {
+                "option": " ensuring that the master switch is off.",
+                "correct": false
+            },
+            {
+                "option": " checking the ELT visual warning light.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "All accidental ELT activations should be reported to the",
+        "options": [
+            {
+                "option": " airport manager.",
+                "correct": false
+            },
+            {
+                "option": " R.C.M.P.",
+                "correct": false
+            },
+            {
+                "option": " Minister.",
+                "correct": false
+            },
+            {
+                "option": " nearest ATS unit.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "When an aircraft engine is left running on the ground and no person remains onboard, the aircraft's movement must be restricted and",
+        "options": [
+            {
+                "option": " it must remain in sight of the pilot at all times.",
+                "correct": false
+            },
+            {
+                "option": " it must not be left unattended.",
+                "correct": true
+            },
+            {
+                "option": " its gross weight must be below 4,409 LB (2,000 kg).",
+                "correct": false
+            },
+            {
+                "option": " its control locks must be installed.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "When confronted with an approaching thunderstorm, a take-off or landing",
+        "options": [
+            {
+                "option": " should be avoided as a sudden wind shift or low level turbulence could cause a loss of control.",
+                "correct": true
+            },
+            {
+                "option": " is safe if you can see under the thunderstorm through to the other side.",
+                "correct": false
+            },
+            {
+                "option": " should be avoided unless the take-off can be made away from the thunderstorm.",
+                "correct": false
+            },
+            {
+                "option": " is safe of the thunderstorm is regarded as \"light\".",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "An isolated thunderstorm is in close proximity to your aerodrome of intended landing. You should",
+        "options": [
+            {
+                "option": " land giving due consideration to wind shear on final approach.",
+                "correct": false
+            },
+            {
+                "option": " hold over a known point clear of the thunderstorm until it is well past the aerodrome.",
+                "correct": true
+            },
+            {
+                "option": " land as quickly as possible.",
+                "correct": false
+            },
+            {
+                "option": " add one-half the wind gust factor to the recommended landing speed and land.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The take-off thrust blast danger area includes at least that area extending back from the tail of a medium size jet transport aeroplane for",
+        "options": [
+            {
+                "option": " 1,200 feet.",
+                "correct": true
+            },
+            {
+                "option": " 900 feet.",
+                "correct": false
+            },
+            {
+                "option": " 500 feet.",
+                "correct": false
+            },
+            {
+                "option": " 450 feet.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The ground idle blast danger area extends back from the tail of a jumbo jet aeroplane for at least",
+        "options": [
+            {
+                "option": " 200 feet.",
+                "correct": false
+            },
+            {
+                "option": " 450 feet.",
+                "correct": false
+            },
+            {
+                "option": " 600 feet.",
+                "correct": true
+            },
+            {
+                "option": " 750 feet.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The ground idle blast danger area extends back from the tail of a medium size jet aeroplane for at least",
+        "options": [
+            {
+                "option": " 200 feet.",
+                "correct": false
+            },
+            {
+                "option": " 450 feet.",
+                "correct": true
+            },
+            {
+                "option": " 600 feet.",
+                "correct": false
+            },
+            {
+                "option": " 750 feet.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The ground idle blast danger area extends back from the tail of an executive jet aeroplane for",
+        "options": [
+            {
+                "option": " 200 feet.",
+                "correct": true
+            },
+            {
+                "option": " 450 feet.",
+                "correct": false
+            },
+            {
+                "option": " 600 feet.",
+                "correct": false
+            },
+            {
+                "option": " 750 feet.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A 45 KT blast area can be expected ..... behind the propellers of a large turbo-prop aeroplane during taxi.",
+        "options": [
+            {
+                "option": " 60 feet.",
+                "correct": true
+            },
+            {
+                "option": " 80 feet.",
+                "correct": false
+            },
+            {
+                "option": " 100 feet.",
+                "correct": false
+            },
+            {
+                "option": " 120 feet.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "At the request of the pilot, VHF direction finding stations normally provide a homing service",
+        "options": [
+            {
+                "option": " only in Class B airspace.",
+                "correct": false
+            },
+            {
+                "option": " only after declaration of an emergency on 121.5 MHz.",
+                "correct": false
+            },
+            {
+                "option": " on the approach control frequency.",
+                "correct": false
+            },
+            {
+                "option": " on a pre-selected tower or FSS frequency.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "VDF steers are intended to provide directional assistance to VFR flights",
+        "options": [
+            {
+                "option": " in times of difficulties.",
+                "correct": true
+            },
+            {
+                "option": " on routine navigational trips.",
+                "correct": false
+            },
+            {
+                "option": " cleared for Special VFR.",
+                "correct": false
+            },
+            {
+                "option": " in uncontrolled airspace.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "You are uncertain of your position and have requested a VDF steer to an airport. You should be aware that",
+        "options": [
+            {
+                "option": " avoiding other traffic is your responsibility but terrain clearance will be provided.",
+                "correct": false
+            },
+            {
+                "option": " avoiding other traffic and terrain clearance is your responsibility.",
+                "correct": true
+            },
+            {
+                "option": " traffic avoidance and terrain clearance will be provided.",
+                "correct": false
+            },
+            {
+                "option": " traffic avoidance will be provided but terrain clearance is your responsibility.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "ATC advises that simultaneous operations (SIRO) are in progress at an airport. Pilots could expect a clearance to",
+        "options": [
+            {
+                "option": " take off over top of an aircraft on an intersecting runway.",
+                "correct": false
+            },
+            {
+                "option": " take off on a specified parallel runway.",
+                "correct": false
+            },
+            {
+                "option": " land and hold short of an intersecting runway.",
+                "correct": true
+            },
+            {
+                "option": " land on a specified parallel runway.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "When issued a clearance to land and hold short of an intersecting runway, pilots",
+        "options": [
+            {
+                "option": " shall comply regardless of the circumstances.",
+                "correct": false
+            },
+            {
+                "option": " may taxi across the intersection after the departing or arriving aircraft has cleared their path.",
+                "correct": false
+            },
+            {
+                "option": " who inadvertently go through the intersection should immediately do a 180\u00b0 turn and backtrack to the hold position.",
+                "correct": false
+            },
+            {
+                "option": " should immediately inform ATC if they are unable to comply.",
+                "correct": true
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+Q: The primary objective of an aviation safety investigation into an aircraft accident or aircraft incident is to
+X:  apportion blame and liability.
+X:  determine the adequacy of insurance regulations.
+X:  enforce regulations.
+Y:  prevent recurrences.
+Q: Details on civil aviation accident reporting procedures can be found in the
+Y:  A.I.P. Canada.
+X:  Canadian Aviation Regulations.
+X:  Canada Flight Supplement.
+X:  Aviation Safety Manual.
+Q: When an aircraft accident occurs, the pilot or operator of the aircraft involved shall ensure that the particulars of the accident are reported to the TSB
+X:  within 7 days by registered mail.
+X:  within 24 hours by telephone.
+X:  within 48 hours by facsimile.
+Y:  as soon as possible and by the quickest means available.
+Q: TSB shall be notified of a reportable aviation accident when
+X:  a person sustains serious or fatal injury as a result of being in or coming into direct contact with any part of an aircraft.
+X:  an aircraft sustains damage or structural failure adversely affecting performance or flight characteristics and requiring major repair or replacement.
+X:  an aircraft is missing or completely inaccessible.
+Y:  any of the above conditions exist.
+Q: What circumstance(s) permit an aircraft to be moved without approval of the Minister after it has been involved in an accident which caused serious injury or death? When it becomes necessary to
+X:  rescue survivors.
+X:  avoid danger to persons or property.
+X:  prevent destruction by fire.
+Y:  implement (1), (2) or (3) above.
+Q: The TSB considers missing aircraft to be
+X:  a reportable aviation incident.
+X:  an occurrence which need not be reported.
+X:  an aviation incident which need not be reported.
+Y:  a reportable aviation accident.

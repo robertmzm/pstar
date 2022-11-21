@@ -1,0 +1,105 @@
+Q: ADIZ rules normally apply
+X:  only to aircraft flying above 12,500 feet.
+X:  only to aircraft flying at true airspeeds of 180 KT or more.
+X:  only to all southbound aircraft.
+Y:  to all aircraft.
+Q: When operating in accordance with VFR, aircraft shall be flown
+X:  clear of aerodrome traffic zones.
+X:  clear of control zones.
+Y:  with visual reference to the surface.
+X:  in compliance with all of the above.
+Q: Normally, a helicopter in uncontrolled airspace at less than 1,000 feet AGL may operate during the day in flight visibility which is not less than
+X:  1/2 mile.
+Y:  1 mile.
+X:  2 miles.
+X:  3 miles.
+Q: What distance from cloud shall an aircraft maintain when flying below 1,000 feet AGL within uncontrolled airspace?
+X:  At least 2,000 feet horizontally and 500 feet vertically.
+X:  At least 1 mile horizontally and 500 feet vertically.
+X:  At least 2 miles horizontally and 500 feet vertically.
+Y:  Clear of cloud.
+Q: No person shall drop anything from an aircraft in flight
+Y:  which will create a hazard to persons or property.
+X:  unless approval has been granted by the Minister.
+X:  unless over an authorized jettison area.
+X:  unless it is attached to a parachute.
+Q: A person may conduct aerobatic manoeuvres in an aircraft
+X:  over an airport provided the appropriate frequency is monitored.
+X:  over the suburban area of a city above 2,000 feet AGL.
+Y:  within Class F advisory airspace when visibility is 3 miles or greater.
+X:  within Class C airspace when the visibility is 1 mile or greater.
+Q: CARs state that after the consumption of any alcoholic beverage, no person shall act as a crew member of an aircraft within
+X:  8 hours.
+Y:  12 hours.
+X:  24 hours.
+X:  36 hours.
+Q: Day in Canada is that period of time between
+X:  sunrise and sunset.
+X:  one hour before sunrise and one hour after sunset.
+Y:  the beginning of morning civil twilight and the end of evening civil twilight.
+X:  the end of morning civil twilight and the beginning of evening civil twilight.
+Q: Night in Canada is that period of time between
+X:  sunset and sunrise.
+X:  the beginning of evening civil twilight and the end of morning civil twilight.
+X:  one hour after sunset and one hour before sunrise.
+Y:  the end of evening civil twilight and the beginning of morning civil twilight.
+Q: Formation flying is permitted only if such flights
+Y:  have been pre-arranged by the pilots-in-command.
+X:  are conducted above 3,000 feet AGL.
+X:  are conducted by commercial pilots.
+X:  are led by a pilot whose licence is endorsed for formation flight.
+Q: Flight through active Class F airspace with the designator CYR
+X:  may be undertaken only by aircraft equipped with two-way radio communication and a transponder.
+X:  is restricted to military aircraft operating under the authority of the Minister of National Defence.
+X:  will be approved only for aircraft on IFR flight plans under positive radar control.
+Y:  is permitted only in accordance with permission issued by the user agency.
+Q: Which statement is correct with regard to "advisory airspace"?
+X:  A transient aircraft entering active advisory airspace shall be equipped with a serviceable transponder.
+Y:  Non-participating VFR aircraft are encouraged to avoid flight in advisory airspace during active periods specified on aeronautical charts and NOTAM.
+X:  Aircraft need to be equipped with a two-way radio to enter active advisory airspace.
+X:  Only military aircraft may enter advisory airspace depicted on aeronautical charts.
+Q: Except as provided by CARs, unless taking off, landing or attempting to land, no person shall fly a helicopter over a built-up area or open air assembly of persons except at an altitude that will permit, in the event of an emergency, the landing of the aircraft without creating a hazard to persons or property on the surface, and such altitude shall not be less than ..... above the highest obstacle within a horizontal radius of ..... from the aircraft.
+X:  3,000 feet, 1 mile.
+X:  2,000 feet, 1,000 feet.
+Y:  1,000 feet, 500 feet.
+X:  500 feet, 500 feet.
+Q: Over non-populous areas or over open water, a pilot may not fly an aircraft at a distance less than ..... feet from any person, vessel, vehicle or structure.
+X:  200.
+Y:  500.
+X:  1,000.
+X:  2,000.
+Q: Except for balloons and as provided by CARs, no person shall cause any aircraft to take off or attempt to take off from, land on or attempt to land on, any surface within the built-up area of any city or town unless
+X:  the aircraft is multi-engined.
+X:  all obstacles on approach and departure can be cleared by a minimum of 500 feet.
+Y:  that surface is an airport or military aerodrome.
+X:  noise abatement procedures are followed.
+Q: What is the height AGL above which an aircraft in VFR flight shall be operated to conform with the Cruising Altitudes Order?
+X:  700 feet.
+X:  2,200 feet.
+Y:  3,000 feet.
+X:  3,500 feet.
+Q: An aircraft cruising VFR in level flight above 3,000 feet AGL on a track of 290°M shall be flown at an
+X:  even thousand foot altitude.
+Y:  even thousand plus 500 foot altitude.
+X:  odd thousand foot altitude.
+X:  odd thousand plus 500 foot altitude.
+Q: The selection of a cruising altitude in the Southern Domestic Airspace should be based on the
+X:  true track.
+Y:  magnetic track.
+X:  true heading.
+X:  magnetic heading.
+Q: Every person who is the holder of any pilot licence or permit shall, on demand, produce such licence or permit for inspection by persons authorized by the Minister, by peace officers and
+X:  FSS operators.
+X:  Transport Canada airport managers.
+Y:  immigration officers.
+X:  all of the above.
+Q: Low Level Airspace is defined as, all airspace
+X:  extending upwards from 2,200 feet AGL within designated airways.
+X:  extending upwards from 700 feet AGL within designated airways.
+X:  extending upwards from the surface of the earth within designated airways.
+Y:  within the Canadian Domestic Airspace below 18,000 feet ASL.
+Q: A Control Zone normally is controlled airspace extending upwards from
+X:  2,200 feet above the surface of the earth.
+X:  700 feet above the surface of the earth.
+Y:  the surface of the earth to 3,000 feet.
+X:  a specified height above the surface of the earth.

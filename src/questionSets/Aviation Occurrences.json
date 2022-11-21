@@ -1,0 +1,128 @@
+[
+    {
+        "question": "The primary objective of an aviation safety investigation into an aircraft accident or aircraft incident is to",
+        "options": [
+            {
+                "option": " apportion blame and liability.",
+                "correct": false
+            },
+            {
+                "option": " determine the adequacy of insurance regulations.",
+                "correct": false
+            },
+            {
+                "option": " enforce regulations.",
+                "correct": false
+            },
+            {
+                "option": " prevent recurrences.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Details on civil aviation accident reporting procedures can be found in the",
+        "options": [
+            {
+                "option": " A.I.P. Canada.",
+                "correct": true
+            },
+            {
+                "option": " Canadian Aviation Regulations.",
+                "correct": false
+            },
+            {
+                "option": " Canada Flight Supplement.",
+                "correct": false
+            },
+            {
+                "option": " Aviation Safety Manual.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "When an aircraft accident occurs, the pilot or operator of the aircraft involved shall ensure that the particulars of the accident are reported to the TSB",
+        "options": [
+            {
+                "option": " within 7 days by registered mail.",
+                "correct": false
+            },
+            {
+                "option": " within 24 hours by telephone.",
+                "correct": false
+            },
+            {
+                "option": " within 48 hours by facsimile.",
+                "correct": false
+            },
+            {
+                "option": " as soon as possible and by the quickest means available.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "TSB shall be notified of a reportable aviation accident when",
+        "options": [
+            {
+                "option": " a person sustains serious or fatal injury as a result of being in or coming into direct contact with any part of an aircraft.",
+                "correct": false
+            },
+            {
+                "option": " an aircraft sustains damage or structural failure adversely affecting performance or flight characteristics and requiring major repair or replacement.",
+                "correct": false
+            },
+            {
+                "option": " an aircraft is missing or completely inaccessible.",
+                "correct": false
+            },
+            {
+                "option": " any of the above conditions exist.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "What circumstance(s) permit an aircraft to be moved without approval of the Minister after it has been involved in an accident which caused serious injury or death? When it becomes necessary to",
+        "options": [
+            {
+                "option": " rescue survivors.",
+                "correct": false
+            },
+            {
+                "option": " avoid danger to persons or property.",
+                "correct": false
+            },
+            {
+                "option": " prevent destruction by fire.",
+                "correct": false
+            },
+            {
+                "option": " implement (1), (2) or (3) above.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "The TSB considers missing aircraft to be",
+        "options": [
+            {
+                "option": " a reportable aviation incident.",
+                "correct": false
+            },
+            {
+                "option": " an occurrence which need not be reported.",
+                "correct": false
+            },
+            {
+                "option": " an aviation incident which need not be reported.",
+                "correct": false
+            },
+            {
+                "option": " a reportable aviation accident.",
+                "correct": true
+            }
+        ]
+    }
+]

@@ -4,7 +4,8 @@ import React,{useState} from 'react';
 
 const chapters = ["Colision Avoidance", "Visual Signals", "Communication",
 	"Aerodromes","Equipment","Pilot Responsibilities","Wake Turbulence","Aeromedical",
-	"Flight Plans and Flight Itineraries", "Clearances and Instructions"]
+	"Flight Plans and Flight Itineraries", "Clearances and Instructions","Aircraft Operations",
+	"Airspace General Regulations", "Controlled Airspace", "Aviation Occurrences"]
 
 
 function PstarPage(props){

@@ -1,0 +1,85 @@
+Q: In an emergency requiring the use of an ELT, it should be turned on
+Y:  immediately and left on.
+X:  at the ETA in the flight plan.
+X:  for the first five minutes of each hour UTC.
+X:  during daylight hours only to conserve the battery.
+Q: An aircraft's ELT may be switched to transmit for test purposes anytime
+X:  following a hard landing.
+Y:  during the first 5 minutes of any hour UTC.
+X:  following a component or battery change.
+X:  prior to flight and listening on 121.5 MHz.
+Q: Before shutting down you can verify that the aircraft's ELT is not transmitting by
+X:  checking that the ELT switch is in the off position.
+Y:  listening on 121.5 MHz for a signal.
+X:  ensuring that the master switch is off.
+X:  checking the ELT visual warning light.
+Q: All accidental ELT activations should be reported to the
+X:  airport manager.
+X:  R.C.M.P.
+X:  Minister.
+Y:  nearest ATS unit.
+Q: When an aircraft engine is left running on the ground and no person remains onboard, the aircraft's movement must be restricted and
+X:  it must remain in sight of the pilot at all times.
+Y:  it must not be left unattended.
+X:  its gross weight must be below 4,409 LB (2,000 kg).
+X:  its control locks must be installed.
+Q: When confronted with an approaching thunderstorm, a take-off or landing
+Y:  should be avoided as a sudden wind shift or low level turbulence could cause a loss of control.
+X:  is safe if you can see under the thunderstorm through to the other side.
+X:  should be avoided unless the take-off can be made away from the thunderstorm.
+X:  is safe of the thunderstorm is regarded as "light".
+Q: An isolated thunderstorm is in close proximity to your aerodrome of intended landing. You should
+X:  land giving due consideration to wind shear on final approach.
+Y:  hold over a known point clear of the thunderstorm until it is well past the aerodrome.
+X:  land as quickly as possible.
+X:  add one-half the wind gust factor to the recommended landing speed and land.
+Q: The take-off thrust blast danger area includes at least that area extending back from the tail of a medium size jet transport aeroplane for
+Y:  1,200 feet.
+X:  900 feet.
+X:  500 feet.
+X:  450 feet.
+Q: The ground idle blast danger area extends back from the tail of a jumbo jet aeroplane for at least
+X:  200 feet.
+X:  450 feet.
+Y:  600 feet.
+X:  750 feet.
+Q: The ground idle blast danger area extends back from the tail of a medium size jet aeroplane for at least
+X:  200 feet.
+Y:  450 feet.
+X:  600 feet.
+X:  750 feet.
+Q: The ground idle blast danger area extends back from the tail of an executive jet aeroplane for
+Y:  200 feet.
+X:  450 feet.
+X:  600 feet.
+X:  750 feet.
+Q: A 45 KT blast area can be expected ..... behind the propellers of a large turbo-prop aeroplane during taxi.
+Y:  60 feet.
+X:  80 feet.
+X:  100 feet.
+X:  120 feet.
+Q: At the request of the pilot, VHF direction finding stations normally provide a homing service
+X:  only in Class B airspace.
+X:  only after declaration of an emergency on 121.5 MHz.
+X:  on the approach control frequency.
+Y:  on a pre-selected tower or FSS frequency.
+Q: VDF steers are intended to provide directional assistance to VFR flights
+Y:  in times of difficulties.
+X:  on routine navigational trips.
+X:  cleared for Special VFR.
+X:  in uncontrolled airspace.
+Q: You are uncertain of your position and have requested a VDF steer to an airport. You should be aware that
+X:  avoiding other traffic is your responsibility but terrain clearance will be provided.
+Y:  avoiding other traffic and terrain clearance is your responsibility.
+X:  traffic avoidance and terrain clearance will be provided.
+X:  traffic avoidance will be provided but terrain clearance is your responsibility.
+Q: ATC advises that simultaneous operations (SIRO) are in progress at an airport. Pilots could expect a clearance to
+X:  take off over top of an aircraft on an intersecting runway.
+X:  take off on a specified parallel runway.
+Y:  land and hold short of an intersecting runway.
+X:  land on a specified parallel runway.
+Q: When issued a clearance to land and hold short of an intersecting runway, pilots
+X:  shall comply regardless of the circumstances.
+X:  may taxi across the intersection after the departing or arriving aircraft has cleared their path.
+X:  who inadvertently go through the intersection should immediately do a 180° turn and backtrack to the hold position.
+Y:  should immediately inform ATC if they are unable to comply.

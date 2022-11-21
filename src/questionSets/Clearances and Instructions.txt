@@ -1,4 +1,3 @@
-Q: Clearances and Instructions
 Q: An ATC instruction
 Y:  must be complied with when received by the pilot providing the safety of the aircraft is not jeopardized.
 X:  must be "read back" in full to the controller and confirmed before becoming effective.
