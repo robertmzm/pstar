@@ -12,6 +12,12 @@ import Footer from './components/Footer'
 import { channels } from '../shared/constants';
 const { ipcRenderer } = window;
 
+const styles = {
+    tab: {
+        minWidth: 300, // a number of your choice
+        width: 400, // a number of your choice
+    }
+};
 
 function App() {
   var value = "Item One"
@@ -19,7 +25,7 @@ function App() {
     <div key="questions">
     <Header />
     <Tabs>
-    <TabList>
+    <TabList style={styles.tab}>
       <Tab>PSTAR</Tab>
       <Tab>Weight and Balance</Tab>
       <Tab><form action="https://www.paypal.com/donate" method="post" target="_top">

@@ -15,7 +15,7 @@ function WeightBalanceSheet(props){
 
   var handleChange = (e) => {
 
-    setinputs({...inputs,[e.target.name]:Number(e.target.value)})
+    setinputs({...inputs,[e.target.name]:Number(eval(e.target.value==""?0:e.target.value))})
   };
 
   var to2Decimal = (num) => {
@@ -76,19 +76,19 @@ function WeightBalanceSheet(props){
         </tr>
         <tr>
           <td>Rear Seat</td>
-          <td style={centerText}><input name="rearSeat" type="text" onChange={handleChange} /></td>
+          <td style={centerText}><input style={centerText} name="rearSeat" type="text" onChange={handleChange} /></td>
           <td style={centerText}>{arms.rearSeat}</td>
           <td style={centerText}>{moments.rearSeat}</td>
         </tr>
         <tr>
           <td>Baggage Area 1</td>
-          <td style={centerText}><input name="baggage1" type="text" onChange={handleChange} /></td>
+          <td style={centerText}><input style={centerText} name="baggage1" type="text" onChange={handleChange} /></td>
           <td style={centerText}>{arms.baggage1}</td>
           <td style={centerText}>{moments.baggage1}</td>
         </tr>
         <tr>
           <td>Baggage Area 2</td>
-          <td style={centerText}><input name="baggage2" type="text" onChange={handleChange} /></td>
+          <td style={centerText}><input style={centerText} name="baggage2" type="text" onChange={handleChange} /></td>
           <td style={centerText}>{arms.baggage2}</td>
           <td style={centerText}>{moments.baggage2}</td>
         </tr>
