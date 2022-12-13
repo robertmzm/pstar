@@ -4,18 +4,25 @@ const tableStyle = {
   border: "2px solid",
   margin: "40px",
 }
-
+const normalBox={
+  width: "30%",
+  textAlign: "center"
+}
+const shortBox={
+  width: "15%",
+  textAlign: "center"
+}
 const centerText={
   textAlign: "center"
 }
 function WeightBalanceSheet(props){
 
-	const [inputs, setinputs] = useState({emptyWeight:0,arm:0,frontSeat:0,rearSeat:0,baggage1:0,baggage2:0,fuelBurn:0,fuel:0});
+	const [inputs, setInputs] = useState({emptyWeight:0,arm:0,frontSeat:0,rearSeat:0,baggage1:0,baggage2:0,fuelBurn:0,fuel:0});
   const arms = {frontSeat:37,rearSeat:73,baggage1:95,baggage2:123,fuel:48}
 
   var handleChange = (e) => {
 
-    setinputs({...inputs,[e.target.name]:Number(eval(e.target.value==""?0:e.target.value))})
+    setInputs({...inputs,[e.target.name]:Number(eval(e.target.value==""?0:e.target.value))})
   };
 
   var to2Decimal = (num) => {
@@ -64,31 +71,31 @@ function WeightBalanceSheet(props){
       <tbody>
         <tr>
           <td>Empty Weight</td>
-          <td style={centerText}><input style={centerText} name="emptyWeight" type="text" onChange={handleChange} /></td>
-          <td style={centerText}><input style={centerText}  name="arm" type="text" onChange={handleChange} /></td>
+          <td style={centerText}><input style={normalBox} name="emptyWeight" type="text" onChange={handleChange} /></td>
+          <td style={centerText}><input style={normalBox}  name="arm" type="text" onChange={handleChange} /></td>
           <td style={centerText}>{moments.emptyWeight}</td>
         </tr>
         <tr>
           <td>Pilot & Front Seat</td>
-          <td style={centerText}><input style={centerText} name="frontSeat" type="text" onChange={handleChange} /></td>
+          <td style={centerText}><input style={normalBox} name="frontSeat" type="text" onChange={handleChange} /></td>
           <td style={centerText}>{arms.frontSeat}</td>
           <td style={centerText}>{moments.frontSeat}</td>
         </tr>
         <tr>
           <td>Rear Seat</td>
-          <td style={centerText}><input style={centerText} name="rearSeat" type="text" onChange={handleChange} /></td>
+          <td style={centerText}><input style={normalBox} name="rearSeat" type="text" onChange={handleChange} /></td>
           <td style={centerText}>{arms.rearSeat}</td>
           <td style={centerText}>{moments.rearSeat}</td>
         </tr>
         <tr>
           <td>Baggage Area 1</td>
-          <td style={centerText}><input style={centerText} name="baggage1" type="text" onChange={handleChange} /></td>
+          <td style={centerText}><input style={normalBox} name="baggage1" type="text" onChange={handleChange} /></td>
           <td style={centerText}>{arms.baggage1}</td>
           <td style={centerText}>{moments.baggage1}</td>
         </tr>
         <tr>
           <td>Baggage Area 2</td>
-          <td style={centerText}><input style={centerText} name="baggage2" type="text" onChange={handleChange} /></td>
+          <td style={centerText}><input style={normalBox} name="baggage2" type="text" onChange={handleChange} /></td>
           <td style={centerText}>{arms.baggage2}</td>
           <td style={centerText}>{moments.baggage2}</td>
         </tr>
@@ -100,7 +107,7 @@ function WeightBalanceSheet(props){
         </tr>
         <tr>
           <td>Fuel (6lbs/US Gal)</td>
-          <td><input style={centerText} name="fuel" type="text" onChange={handleChange} /></td>
+          <td style={centerText}><input style={shortBox} name="fuel" type="text" onChange={handleChange} />*6={inputs.fuel*6}Gal</td>
           <td style={centerText}>{arms.fuel}</td>
           <td style={centerText}>{moments.fuel}</td>
         </tr>
@@ -124,7 +131,7 @@ function WeightBalanceSheet(props){
         </tr>
         <tr>
           <td>Fuel Burn</td>
-          <td><input style={centerText} name="fuelBurn" type="text" onChange={handleChange} /></td>
+          <td style={centerText}><input style={normalBox} name="fuelBurn" type="text" onChange={handleChange} /></td>
           <td style={centerText}>{arms.fuel}</td>
           <td style={centerText}>{moments.fuelBurn}</td>
         </tr>
