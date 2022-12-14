@@ -13,8 +13,15 @@ const shortBox={
   textAlign: "center"
 }
 const centerText={
-  textAlign: "center"
+  textAlign: "center",
 }
+
+const centerGreenText={
+  textAlign: "center",
+  color:"green"
+}
+
+
 function WeightBalanceSheet(props){
 
 	const [inputs, setInputs] = useState({emptyWeight:0,arm:0,frontSeat:0,rearSeat:0,baggage1:0,baggage2:0,fuelBurn:0,fuel:0});
@@ -73,13 +80,13 @@ function WeightBalanceSheet(props){
           <td>Empty Weight</td>
           <td style={centerText}><input style={normalBox} name="emptyWeight" type="text" onChange={handleChange} /></td>
           <td style={centerText}><input style={normalBox}  name="arm" type="text" onChange={handleChange} /></td>
-          <td style={centerText}>{moments.emptyWeight}</td>
+          <td style={centerGreenText}>{moments.emptyWeight}</td>
         </tr>
         <tr>
           <td>Pilot & Front Seat</td>
           <td style={centerText}><input style={normalBox} name="frontSeat" type="text" onChange={handleChange} /></td>
           <td style={centerText}>{arms.frontSeat}</td>
-          <td style={centerText}>{moments.frontSeat}</td>
+          <td style={centerGreenText}>{moments.frontSeat}</td>
         </tr>
         <tr>
           <td>Rear Seat</td>
@@ -101,21 +108,21 @@ function WeightBalanceSheet(props){
         </tr>
         <tr>
           <td>ZeroFuel Weight</td>
-          <td style={centerText}>{weights.zeroFuel}</td>
-          <td style={centerText}>{arms.zeroFuel}</td>
-          <td style={centerText}>{moments.zeroFuel}</td>
+          <td style={centerGreenText}>{weights.zeroFuel}</td>
+          <td style={centerGreenText}>{arms.zeroFuel}</td>
+          <td style={centerGreenText}>{moments.zeroFuel}</td>
         </tr>
         <tr>
           <td>Fuel (6lbs/US Gal)</td>
-          <td style={centerText}><input style={shortBox} name="fuel" type="text" onChange={handleChange} />*6={inputs.fuel*6}Gal</td>
+          <td style={centerGreenText}><input style={shortBox} name="fuel" type="text" onChange={handleChange} />*6={inputs.fuel*6}Gal</td>
           <td style={centerText}>{arms.fuel}</td>
-          <td style={centerText}>{moments.fuel}</td>
+          <td style={centerGreenText}>{moments.fuel}</td>
         </tr>
         <tr>
           <td>Ramp Weight</td>
-          <td style={centerText}>{weights.rampWeight}</td>
-          <td style={centerText}>{arms.rampWeight}</td>
-          <td style={centerText}>{moments.rampWeight}</td>
+          <td style={centerGreenText}>{weights.rampWeight}</td>
+          <td style={centerGreenText}>{arms.rampWeight}</td>
+          <td style={centerGreenText}>{moments.rampWeight}</td>
         </tr>
         <tr>
           <td>Less Start & Taxi</td>
@@ -125,21 +132,21 @@ function WeightBalanceSheet(props){
         </tr>
         <tr>
           <td>Take-Off Weight</td>
-          <td style={centerText}>{weights.takeOff}</td>
-          <td style={centerText}>{arms.takeOff}</td>
-          <td style={centerText}>{moments.takeOff}</td>
+          <td style={centerGreenText} >{weights.takeOff}</td>
+          <td style={centerGreenText}>{arms.takeOff}</td>
+          <td style={centerGreenText}>{moments.takeOff}</td>
         </tr>
         <tr>
           <td>Fuel Burn</td>
           <td style={centerText}><input style={normalBox} name="fuelBurn" type="text" onChange={handleChange} /></td>
           <td style={centerText}>{arms.fuel}</td>
-          <td style={centerText}>{moments.fuelBurn}</td>
+          <td style={centerGreenText}>{moments.fuelBurn}</td>
         </tr>
         <tr>
           <td>Landing Weight</td>
-          <td style={centerText}>{weights.landing}</td>
-          <td style={centerText}>{arms.landing}</td>
-          <td style={centerText}>{moments.landing}</td>
+          <td style={centerGreenText}>{weights.landing}</td>
+          <td style={centerGreenText}>{arms.landing}</td>
+          <td style={centerGreenText}>{moments.landing}</td>
         </tr>
       </tbody>
     </table>
