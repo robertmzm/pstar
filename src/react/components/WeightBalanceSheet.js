@@ -41,14 +41,14 @@ function WeightBalanceSheet(props){
     baggage1:inputs.baggage1*arms.baggage1,
     baggage2:inputs.baggage2*arms.baggage2,
     zeroFuel:0,
-    fuel:inputs.fuel*arms.fuel,
+    fuel:inputs.fuel*6*arms.fuel,
     taxi: weights.taxi*arms.fuel,
-    fuelBurn: inputs.fuelBurn*arms.fuel
+    fuelBurn: inputs.fuelBurn*6*arms.fuel
   }
   moments.zeroFuel=moments.emptyWeight+moments.frontSeat+moments.rearSeat+moments.baggage1+moments.baggage2
   arms.zeroFuel=weights.zeroFuel==0?0:moments.zeroFuel/weights.zeroFuel
 
-  weights.rampWeight=weights.zeroFuel+inputs.fuel
+  weights.rampWeight=weights.zeroFuel+inputs.fuel*6
   moments.rampWeight=moments.fuel+moments.zeroFuel
   arms.rampWeight=weights.rampWeight==0?0:moments.rampWeight/weights.rampWeight
 
@@ -56,8 +56,8 @@ function WeightBalanceSheet(props){
   moments.takeOff=moments.rampWeight+moments.taxi
   arms.takeOff=moments.takeOff/weights.takeOff
 
-  weights.landing = weights.takeOff+inputs.fuelBurn
-  moments.landing = moments.takeOff+moments.fuelBurn
+  weights.landing = weights.takeOff+inputs.fuelBurn*6
+  moments.landing = moments.takeOff+moments.fuelBurn*6
   arms.landing=moments.landing/weights.landing
 
   Object.keys(moments).forEach(function(key) {
@@ -138,7 +138,7 @@ function WeightBalanceSheet(props){
         </tr>
         <tr>
           <td>Fuel Burn</td>
-          <td style={centerText}><input style={normalBox} name="fuelBurn" type="text" onChange={handleChange} /></td>
+          <td style={centerGreenText}><input style={shortBox} name="fuelBurn" type="text" onChange={handleChange} />*6={inputs.fuelBurn*6}Gal</td>
           <td style={centerText}>{arms.fuel}</td>
           <td style={centerGreenText}>{moments.fuelBurn}</td>
         </tr>
