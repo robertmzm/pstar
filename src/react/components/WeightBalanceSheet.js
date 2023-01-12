@@ -5,7 +5,7 @@ const tableStyle = {
   margin: "40px",
 }
 const normalBox={
-  width: "30%",
+  width: "40%",
   textAlign: "center"
 }
 const shortBox={
@@ -57,7 +57,7 @@ function WeightBalanceSheet(props){
   arms.takeOff=moments.takeOff/weights.takeOff
 
   weights.landing = weights.takeOff+inputs.fuelBurn*6
-  moments.landing = moments.takeOff+moments.fuelBurn*6
+  moments.landing = moments.takeOff+moments.fuelBurn
   arms.landing=moments.landing/weights.landing
 
   Object.keys(moments).forEach(function(key) {
