@@ -1,5 +1,15 @@
 import React,{useState} from 'react';
 
+import {
+  Chart as ChartJS,
+  LinearScale,
+  PointElement,
+  LineElement,
+  Tooltip,
+  Legend,
+} from 'chart.js';
+import { Scatter } from 'react-chartjs-2';
+
 const tableStyle = {
   border: "2px solid",
   margin: "40px",
@@ -20,6 +30,46 @@ const centerGreenText={
   textAlign: "center",
   color:"green"
 }
+
+export const chartOptions = {
+  scales: {
+    x: {
+      min:45,
+      max:115
+    },
+    y: {
+      min:1500,
+      max:2500
+    },
+  },
+};
+
+var chartData = {
+  datasets: [
+    {
+      label: 'ZERO',
+      data: [{x:68,y:1775}],
+      backgroundColor: 'rgba(0, 0, 0, 1)',
+    },
+    {
+      label: 'T/O',
+      data: [{x:77,y:1600}],
+      backgroundColor: 'rgba(0, 0, 0, 1)',
+    },
+    {
+      label: 'LDG',
+      data: [{x:60,y:1550}],
+      backgroundColor: 'rgba(0, 0, 0, 1)',
+    },
+  ],
+};
+
+const chartStyle = {
+  width:"600px",
+  height:"600px",
+}
+
+ChartJS.register(LinearScale, PointElement, LineElement, Tooltip);
 
 
 function WeightBalanceSheet(props){
@@ -63,9 +113,51 @@ function WeightBalanceSheet(props){
   Object.keys(moments).forEach(function(key) {
    moments[key]=to2Decimal(moments[key])
    arms[key]=to2Decimal(arms[key])
-});
+  });
+
+  // chartData = {
+  //   datasets: [
+  //     {
+  //       label: 'ZERO',
+  //       data: [{x:77.4,y:1775}],
+  //       backgroundColor: 'rgba(0, 0, 0, 1)',
+  //     },
+  //     {
+  //       label: 'T/O',
+  //       data: [{x:Number(moments.zeroFuel)/1000,y:weights.zeroFuel}],
+  //       backgroundColor: 'rgba(0, 0, 0, 1)',
+  //     },
+  //     {
+  //       label: 'LDG',
+  //       data: [{x:40,y:20}],
+  //       backgroundColor: 'rgba(0, 0, 0, 1)',
+  //     },
+  //   ],
+  // };
+  chartData = {
+  datasets: [
+    {
+      label: 'ZERO',
+      data: [{x:Number(moments.zeroFuel)/1000,y:weights.zeroFuel}],
+      backgroundColor: 'rgba(0, 0, 0, 1)',
+    },
+    {
+      label: 'T/O',
+      data: [{x:Number(moments.takeOff)/1000,y:weights.takeOff}],
+      backgroundColor: 'rgba(0, 0, 0, 1)',
+    },
+    {
+      label: 'LDG',
+      data: [{x:Number(moments.landing)/1000,y:weights.landing}],
+      backgroundColor: 'rgba(0, 0, 0, 1)',
+    },
+  ],
+};
+  console.log(chartData)
+
 
 	return(
+    <div>
     <table style={tableStyle}>
       <thead>
         <tr>
@@ -150,7 +242,10 @@ function WeightBalanceSheet(props){
         </tr>
       </tbody>
     </table>
-    // </div>
+    <div style={chartStyle}>
+      <Scatter options={chartOptions} data={chartData} />
+    </div>
+    </div>
       )
 }
 
