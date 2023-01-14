@@ -60,7 +60,7 @@ var chartData = {
       label: 'LDG',
       data: [{x:60,y:1550}],
       backgroundColor: 'rgba(0, 0, 0, 1)',
-    },
+    }
   ],
 };
 
@@ -115,25 +115,6 @@ function WeightBalanceSheet(props){
    arms[key]=to2Decimal(arms[key])
   });
 
-  // chartData = {
-  //   datasets: [
-  //     {
-  //       label: 'ZERO',
-  //       data: [{x:77.4,y:1775}],
-  //       backgroundColor: 'rgba(0, 0, 0, 1)',
-  //     },
-  //     {
-  //       label: 'T/O',
-  //       data: [{x:Number(moments.zeroFuel)/1000,y:weights.zeroFuel}],
-  //       backgroundColor: 'rgba(0, 0, 0, 1)',
-  //     },
-  //     {
-  //       label: 'LDG',
-  //       data: [{x:40,y:20}],
-  //       backgroundColor: 'rgba(0, 0, 0, 1)',
-  //     },
-  //   ],
-  // };
   chartData = {
   datasets: [
     {
@@ -151,6 +132,62 @@ function WeightBalanceSheet(props){
       data: [{x:Number(moments.landing)/1000,y:weights.landing}],
       backgroundColor: 'rgba(0, 0, 0, 1)',
     },
+    {
+      label: "Normal Category",
+       data: [{
+          x: 52.5,
+          y: 1500
+       }, {
+          x: 68,
+          y: 1960
+       }, {
+          x: 95,
+          y: 2400
+       }, { 
+          x: 114,
+          y: 2400
+       },{ 
+          x: 70,
+          y: 1500
+       }],
+       borderColor: 'black',
+       borderWidth: 1,
+       pointBackgroundColor: ['#000', '#00bcd6', '#d300d6'],
+       pointBorderColor: ['#000', '#00bcd6', '#d300d6'],
+       pointRadius: 0,
+       pointHoverRadius: 5,
+       fill: false,
+       tension: 0,
+       showLine: true
+    },
+    {
+      label: "Utility Category",
+       data: [{
+          x: 52.5,
+          y: 1500
+       }, {
+          x: 68,
+          y: 1960
+       }, {
+          x: 76.6,
+          y: 2100
+       }, { 
+          x: 85,
+          y: 2100
+       },{ 
+          x: 60,
+          y: 1500
+       }],
+       borderColor: 'black',
+       borderWidth: 1,
+       pointBackgroundColor: ['#000', '#00bcd6', '#d300d6'],
+       pointBorderColor: ['#000', '#00bcd6', '#d300d6'],
+       pointRadius: 0,
+       pointHoverRadius: 5,
+       fill: false,
+       tension: 0,
+       showLine: true
+    }
   ],
 };
 
