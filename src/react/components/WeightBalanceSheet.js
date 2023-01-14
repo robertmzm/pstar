@@ -9,6 +9,7 @@ import {
   Legend,
 } from 'chart.js';
 import { Scatter } from 'react-chartjs-2';
+import ChartDataLabels from 'chartjs-plugin-datalabels';
 
 const tableStyle = {
   border: "2px solid",
@@ -42,34 +43,28 @@ export const chartOptions = {
       max:2500
     },
   },
+  plugins: {
+      datalabels: {//prep labels
+        align:"right",
+        formatter: function(value, context) {
+          console.log(context)
+          return context.chart.data.labels[context.datasetIndex];
+        },
+      }
+    
+  },
+  events: [],// disable tooltips
 };
 
-var chartData = {
-  datasets: [
-    {
-      label: 'ZERO',
-      data: [{x:68,y:1775}],
-      backgroundColor: 'rgba(0, 0, 0, 1)',
-    },
-    {
-      label: 'T/O',
-      data: [{x:77,y:1600}],
-      backgroundColor: 'rgba(0, 0, 0, 1)',
-    },
-    {
-      label: 'LDG',
-      data: [{x:60,y:1550}],
-      backgroundColor: 'rgba(0, 0, 0, 1)',
-    }
-  ],
-};
+var chartData = {}
 
 const chartStyle = {
   width:"600px",
-  height:"600px",
+  height:"500px",
+  margin: "40px",
 }
 
-ChartJS.register(LinearScale, PointElement, LineElement, Tooltip);
+ChartJS.register(LinearScale, PointElement, LineElement, Tooltip, ChartDataLabels);
 
 
 function WeightBalanceSheet(props){
@@ -116,24 +111,31 @@ function WeightBalanceSheet(props){
   });
 
   chartData = {
+  labels: ['ZERO', 'T/O', 'LDG',"","",'Normal Category','Utility Category'],
   datasets: [
+    
     {
-      label: 'ZERO',
+      label: "ZERO",
       data: [{x:Number(moments.zeroFuel)/1000,y:weights.zeroFuel}],
       backgroundColor: 'rgba(0, 0, 0, 1)',
     },
     {
-      label: 'T/O',
+      label: "T/O",
       data: [{x:Number(moments.takeOff)/1000,y:weights.takeOff}],
       backgroundColor: 'rgba(0, 0, 0, 1)',
     },
     {
-      label: 'LDG',
+      label: "LDG",
       data: [{x:Number(moments.landing)/1000,y:weights.landing}],
       backgroundColor: 'rgba(0, 0, 0, 1)',
     },
     {
       label: "Normal Category",
+      datalabels: {//disable label for category box
+        labels: {
+          display:false
+        }
+      },
        data: [{
           x: 52.5,
           y: 1500
@@ -152,16 +154,16 @@ function WeightBalanceSheet(props){
        }],
        borderColor: 'black',
        borderWidth: 1,
-       pointBackgroundColor: ['#000', '#00bcd6', '#d300d6'],
-       pointBorderColor: ['#000', '#00bcd6', '#d300d6'],
        pointRadius: 0,
-       pointHoverRadius: 5,
-       fill: false,
-       tension: 0,
        showLine: true
     },
     {
       label: "Utility Category",
+      datalabels: {//disable label for category box
+        labels: {
+          display:false
+        }
+      },
        data: [{
           x: 52.5,
           y: 1500
@@ -180,13 +182,21 @@ function WeightBalanceSheet(props){
        }],
        borderColor: 'black',
        borderWidth: 1,
-       pointBackgroundColor: ['#000', '#00bcd6', '#d300d6'],
-       pointBorderColor: ['#000', '#00bcd6', '#d300d6'],
        pointRadius: 0,
-       pointHoverRadius: 5,
-       fill: false,
-       tension: 0,
        showLine: true
+    },
+    {
+      data: [{x:90,y:2200}],
+      pointRadius: 0,
+      backgroundColor: 'rgba(0, 0, 0, 1)',
+    },
+    {
+      data: [{x:55,y:1800}],
+      datalabels: {
+        rotation:-45
+      },
+      pointRadius: 0,
+      backgroundColor: 'rgba(0, 0, 0, 1)',
     }
   ],
 };
@@ -279,7 +289,7 @@ function WeightBalanceSheet(props){
       </tbody>
     </table>
     <div style={chartStyle}>
-      <Scatter options={chartOptions} data={chartData} />
+      <Scatter options={chartOptions} data={chartData}/>
     </div>
     </div>
       )
