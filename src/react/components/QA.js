@@ -16,7 +16,7 @@ const QAStyle = {
 function QA(props){
 	const [input, setInput] = useState("")
 	const [answer, setAnswer] = useState("");
-	console.log(process.env.OPENAI_API_KEY)
+	console.log(process.env)
 
 	var handleChange = (e) => {
 		setInput(e.target.value)
