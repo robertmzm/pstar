@@ -153,7 +153,6 @@ function WeightBalanceSheet(props){
     },
   ],
 };
-  console.log(chartData)
 
 
 	return(
@@ -205,8 +204,8 @@ function WeightBalanceSheet(props){
           <td style={centerGreenText}>{moments.zeroFuel}</td>
         </tr>
         <tr>
-          <td>Fuel (6lbs/US Gal)</td>
-          <td style={centerGreenText}><input style={shortBox} name="fuel" type="text" onChange={handleChange} />*6={inputs.fuel*6}Gal</td>
+          <td>Fuel (6lbs/US lbs)</td>
+          <td style={centerGreenText}><input style={shortBox} name="fuel" type="text" onChange={handleChange} />*6={inputs.fuel*6}lbs</td>
           <td style={centerText}>{arms.fuel}</td>
           <td style={centerGreenText}>{moments.fuel}</td>
         </tr>
@@ -230,7 +229,7 @@ function WeightBalanceSheet(props){
         </tr>
         <tr>
           <td>Fuel Burn</td>
-          <td style={centerGreenText}><input style={shortBox} name="fuelBurn" type="text" onChange={handleChange} />*6={inputs.fuelBurn*6}Gal</td>
+          <td style={centerGreenText}><input style={shortBox} name="fuelBurn" type="text" onChange={handleChange} />*6={inputs.fuelBurn*6}lbs</td>
           <td style={centerText}>{arms.fuel}</td>
           <td style={centerGreenText}>{moments.fuelBurn}</td>
         </tr>
