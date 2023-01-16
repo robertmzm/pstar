@@ -13,7 +13,6 @@ import ChartDataLabels from 'chartjs-plugin-datalabels';
 
 const tableStyle = {
   border: "2px solid",
-  margin: "40px",
 }
 const normalBox={
   width: "40%",
@@ -60,7 +59,6 @@ var chartData = {}
 const chartStyle = {
   width:"600px",
   height:"500px",
-  margin: "40px",
 }
 
 ChartJS.register(LinearScale, PointElement, LineElement, Tooltip, ChartDataLabels);
