@@ -47,7 +47,6 @@ export const chartOptions = {
       datalabels: {//prep labels
         align:"right",
         formatter: function(value, context) {
-          console.log(context)
           return context.chart.data.labels[context.datasetIndex];
         },
       }

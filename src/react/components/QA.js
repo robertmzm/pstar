@@ -3,7 +3,7 @@ import { Configuration, OpenAIApi } from "openai";
 
 const configuration = new Configuration({
     organization: "org-ee2qInY8V4SaXwCYMsAoZatJ",
-    apiKey: process.env.OPENAI_API_KEY,
+    apiKey: process.env.REACT_APP_OPENAI_API_KEY,
 });
 const openai = new OpenAIApi(configuration);
 
@@ -16,7 +16,7 @@ const QAStyle = {
 function QA(props){
 	const [input, setInput] = useState("")
 	const [answer, setAnswer] = useState("");
-	console.log(process.env)
+	console.log(process.env.REACT_APP_OPENAI_API_KEY)
 
 	var handleChange = (e) => {
 		setInput(e.target.value)
