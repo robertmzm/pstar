@@ -5,7 +5,7 @@ const style={
 }
 function Header(props){
 	return (<div>
-		<h1>Built by <img width="50" height="50" src={logo} alt="Logo" style={style} /></h1> 
+		<h1><img width="50" height="50" src={logo} alt="Logo" style={style} /> Flying Utility</h1> 
     </div>)
 }
 
