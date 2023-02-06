@@ -4,7 +4,9 @@ import {
 	View,
 	ActivityIndicator
 } from 'react-native';
+
 import { Configuration, OpenAIApi } from "openai";
+
 
 const configuration = new Configuration({
     organization: "org-ee2qInY8V4SaXwCYMsAoZatJ",
@@ -31,11 +33,24 @@ const container={
 	height:"20px",
   }
 
+const styles = {
+	pageButton:{
+		borderRadius: '5px',
+		backgroundColor: 'white',
+		margin: 2,
+		display: 'inline',
+		verticalAlign:"middle",
+		width:'100px',
+		height:'40px'
+	}
+}
+
 
 
 function QA(props){
 	const [input, setInput] = useState("")
 	const [answer, setAnswer] = useState("");
+	const [isFetching, setIsFetching] = useState(false);
 
 	var handleChange = (e) => {
 		setInput(e.target.value)
@@ -43,24 +58,23 @@ function QA(props){
 
 	function handleSubmit(e) {
 		e.preventDefault();
+		setIsFetching(true);
 		const completion = openai.createCompletion({
 		model: "text-davinci-003",
 		prompt: input,
 		temperature: 0.6,
 		"max_tokens": 300
-		}).then((response) => setAnswer(response.data.choices[0].text))
+		}).then((response) => {
+			setIsFetching(false);
+			setAnswer(response.data.choices[0].text)
+		})
 	}
 	return (
 		<div style={QAStyle}>
 			<p> Ask me anything about aviation and you get the answer right the way.</p>
 			<textarea style={testAreaStyle} name="question"  onChange={handleChange} />
-				<View style={[{ width: "30%", backgroundColor: "white" }]}>
-				<Button
-			        title="Submit"
-			        color="#000000"
-			        onPress={handleSubmit}/>
-			    </View>		    
-			    
+			<p> <button style={styles.pageButton}onClick={handleSubmit}> Submit </button> {isFetching&& "Waiting for answer"}</p>	    
+			
 			<div>
 				<p>{answer}</p>
 			</div>
