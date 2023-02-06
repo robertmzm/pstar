@@ -10,11 +10,12 @@ const chapters = ["Colision Avoidance", "Visual Signals", "Communication",
 
 function PstarPage(props){
 	const styles = {
-	pageButton:{
-	  backgroundColor: 'white',
-	  margin: 10,
-	  display: 'inline'
-	}
+		pageButton:{
+		  backgroundColor: 'white',
+		  margin: 10,
+		  display: 'inline',
+		  verticalAlign:"middle"
+		}
 	}
 	const [chapterIndex, setChapterIndex] = useState(0);
 
@@ -35,10 +36,11 @@ function PstarPage(props){
 	);
 	return(
 	<div>
-	
-			<td><button style={styles.pageButton}onClick={handleLeftButtonClick}> {"<<"} </button></td>
-			<td><h1 style={{"margin": 20}}>{chapterIndex+1}. {chapters[chapterIndex]}</h1></td>
-      <td><button style={styles.pageButton}onClick={handleRightButtonClick}> >> </button></td>
+		<h1 style={{"margin": 20}}> 
+			<button style={styles.pageButton}onClick={handleLeftButtonClick}> {"<<"} </button>
+			{chapterIndex+1}. {chapters[chapterIndex]}
+			<button style={styles.pageButton}onClick={handleRightButtonClick}> >> </button>
+		</h1>
       {questionItems}
       </div>
     )
