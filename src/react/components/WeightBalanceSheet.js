@@ -19,7 +19,7 @@ const normalBox={
   textAlign: "center"
 }
 const shortBox={
-  width: "15%",
+  width: "10%",
   textAlign: "center"
 }
 const centerText={
@@ -273,7 +273,7 @@ function WeightBalanceSheet(props){
         </tr>
         <tr>
           <td>Fuel Burn</td>
-          <td style={centerGreenText}><input style={shortBox} name="fuelBurn" type="text" onChange={handleChange} />*6={inputs.fuelBurn*6}lbs</td>
+          <td style={centerGreenText}>-<input style={shortBox} name="fuelBurn" type="text" onChange={handleChange} />*6={inputs.fuelBurn*-6}lbs</td>
           <td style={centerText}>{arms.fuel}</td>
           <td style={centerGreenText}>{moments.fuelBurn}</td>
         </tr>
