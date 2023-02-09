@@ -77,6 +77,7 @@ function WeightBalanceSheet(props){
   var to2Decimal = (num) => {
     return (Math.round(num * 100) / 100).toFixed(2)
   }
+
   var weights = {zeroFuel:inputs.emptyWeight+inputs.frontSeat+inputs.rearSeat+inputs.baggage1+inputs.baggage2,taxi:-7}
   var moments = {emptyWeight:inputs.emptyWeight*inputs.arm, frontSeat:inputs.frontSeat*arms.frontSeat, 
     rearSeat:inputs.rearSeat*arms.rearSeat,
@@ -85,7 +86,7 @@ function WeightBalanceSheet(props){
     zeroFuel:0,
     fuel:inputs.fuel*6*arms.fuel,
     taxi: weights.taxi*arms.fuel,
-    fuelBurn: inputs.fuelBurn*6*arms.fuel
+    fuelBurn: inputs.fuelBurn*-6*arms.fuel
   }
   moments.zeroFuel=moments.emptyWeight+moments.frontSeat+moments.rearSeat+moments.baggage1+moments.baggage2
   arms.zeroFuel=weights.zeroFuel==0?0:moments.zeroFuel/weights.zeroFuel
@@ -98,7 +99,7 @@ function WeightBalanceSheet(props){
   moments.takeOff=moments.rampWeight+moments.taxi
   arms.takeOff=moments.takeOff/weights.takeOff
 
-  weights.landing = weights.takeOff+inputs.fuelBurn*6
+  weights.landing = weights.takeOff+inputs.fuelBurn*-6
   moments.landing = moments.takeOff+moments.fuelBurn
   arms.landing=moments.landing/weights.landing
 
