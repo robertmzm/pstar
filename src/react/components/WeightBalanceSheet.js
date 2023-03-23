@@ -39,7 +39,7 @@ export const chartOptions = {
     },
     y: {
       min:1500,
-      max:2500
+      max:2400
     },
   },
   plugins: {
